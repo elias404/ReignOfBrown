@@ -201,7 +201,7 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 Засты́ли все ре́ки, согну́лись хребты́,
 И вре́мя засты́ло у чёрной черты́.
 На фая́нсовом тро́не вселе́нная спит,
-И в у́жасе ка́ждая звё́зда молчи́т.
+И у́жас по жи́лам вселе́нной бежи́т.
 
 [Pre-Chorus — rising tension, accelerating into the gallop]
 Одна́ за друго́й разрыва́лась печа́ть —

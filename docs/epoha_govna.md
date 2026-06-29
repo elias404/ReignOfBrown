@@ -201,12 +201,12 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 Вели́кий Затво́р — запусте́нье и тлен.
 Засты́ли все ре́ки, согну́лись хребты́,
 И вре́мя засты́ло у чёрной черты́.
-На фая́нсовом тро́не вселе́нная спит,
+На фая́нсовом тро́не мирозда́нье спит,
 И у́жас по жи́лам вселе́нной бежи́т.
 
 [Pre-Chorus — rising tension, accelerating into the gallop]
 Одна́ за друго́й разрыва́лась печа́ть —
-Семь дре́вних замко́в мирозда́нья крича́т!
+Семь дре́вних замко́в небосво́да крича́т!
 
 [Lead vocal — explosive ultra-high piercing metal shriek]
 РАЗВЕ́РЗНИСЬ!
@@ -214,7 +214,7 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 [Chorus — monumental, sacred, punchy singalong, strong on-beat accents]
 В нача́ле бы́ло Говно́!
 До не́ба и су́ши — оно́!
-Сквозь хо́лод вселе́нской тюрьмы́
+Сквозь хо́лод всеми́рной тюрьмы́
 Несёт избавле́нье из тьмы!
 В нача́ле бы́ло Говно́!
 Творе́нья свято́е зерно́!
@@ -239,7 +239,7 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 [Chorus]
 В нача́ле бы́ло Говно́!
 До не́ба и су́ши — оно́!
-Сквозь хо́лод вселе́нской тюрьмы́
+Сквозь хо́лод всеми́рной тюрьмы́
 Несёт избавле́нье из тьмы!
 В нача́ле бы́ло Говно́!
 Творе́нья свято́е зерно́!
@@ -252,14 +252,14 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 Не пе́рвое сло́во…
 Не пе́рвый рассве́т…
 А дре́вняя си́ла, что ста́рше всех лет.
-Из не́др вселе́нной, из ко́рня времён —
+Из не́др бытия́, из ко́рня времён —
 Восхо́дит Кори́чневый Гром!
 
 [Breakdown — shouted, emotional, epic, dramatic, theatrical]
 Сорви́сь!
 Замки́, рассыпа́йтесь во прах!
 Сорви́сь!
-И сги́нет вселе́нский наш страх!
+И сги́нет после́дний наш страх!
 
 [Final Chorus — double tempo]
 В нача́ле бы́ло Говно́!

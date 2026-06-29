@@ -224,7 +224,7 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 [Verse 2 — full-speed gallop, punchy syncopated staccato vocal, hard accents]
 Из дре́вних глуби́н — гро́хот, пла́мя и свет,
 Восста́л Вали́тель, кому́ ра́вных нет.
-В руке́ полыха́ет коме́тный ёрш,
+В руке́ полыха́ет коме́тами ёрш,
 Доспе́х его гро́зен, могу́ч и хоро́ш!
 Он гля́нул на сжа́тый, око́ванный мир:
 Всё та́йное вы́йдет — и ру́хнет куми́р!

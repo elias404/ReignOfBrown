@@ -191,8 +191,9 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 
 ```text
 [Intro — short, slow and ominous, distant bells, quickly building into the gallop]
-До пе́рвой звезды́, до рожде́нья огня́,
-В безмо́лвной утро́бе дрема́ла она́.
+В нача́ле молча́ние бы́ло одно́,
+И не́бо, и бе́здна — всё бы́ло темно́.
+Но в ко́рне творе́нья таи́лось Оно́.
 
 [Verse 1 — slow, heavy, ominous, monumental, building]
 Но мир охвати́л недви́жимый плен:

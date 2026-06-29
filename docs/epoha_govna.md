@@ -268,8 +268,8 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 И ми́р потечё́т за судьбо́й!
 В нача́ле бы́ло Говно́!
 Творе́нья свято́е зерно́!
-Взойдё́т над вселе́нной во мгле
-Кори́чневый зна́к на челе́!
+Взойдё́т над вселе́нной звезда́ —
+Кори́чневый зна́к навсегда́!
 
 [Full band stop — brief silence]
 [Lead vocal — climactic glass-shattering ultra-high sustained metal scream]

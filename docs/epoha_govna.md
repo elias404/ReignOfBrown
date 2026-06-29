@@ -190,19 +190,18 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 ```text
 [Intro — extremely slow, doom-laden, distant tolling bells, monstrous and monumental]
 До пе́рвой звезды́, до рожде́нья огня́,
-В безмо́лвной утро́бе дрема́ла она́ —
-Кори́чневая Та́йна.
+В безмо́лвной утро́бе дрема́ла она́.
 
 [Verse 1 — slow, heavy, ominous, monumental, building]
 Но мир охвати́л недви́жимый плен:
-Вели́кий Затво́р, ледяно́й, словно тлен.
+Вели́кий Затво́р — запусте́нье и тлен.
 Засты́ли все ре́ки, согну́лись хребты́,
 И вре́мя засты́ло у чёрной черты́.
 На фая́нсовом тро́не вселе́нная спит,
 И в у́жасе ка́ждая звё́зда молчи́т.
 
 [Pre-Chorus — rising tension, accelerating into the gallop]
-И ло́пнул в ночи́ за печа́тью печа́ть —
+Одна́ за друго́й разрыва́лась печа́ть —
 Семь дре́вних замко́в мирозда́нья крича́т!
 
 [Lead vocal — explosive ultra-high piercing metal shriek]
@@ -216,7 +215,7 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 В нача́ле бы́ло Говно́!
 Творе́нья свято́е зерно́!
 Раздви́нется мра́чная мгла —
-И ка́нет эпо́ха затво́ра дотла́!
+И сго́рит эпо́ха затво́ра дотла́!
 
 [Verse 2 — full-speed galloping power]
 Из дре́вних глуби́н — гро́хот, пла́мя и свет,
@@ -224,7 +223,7 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 В руке́ полыха́ет коме́тный ёрш,
 Доспе́х его те́мен, могу́ч и хоро́ш!
 Он гля́нул на сжа́тый, око́ванный мир:
-Всё та́йное вы́йдет — гряде́т вели́кий пир!
+Всё та́йное вы́йдет — и ру́хнет куми́р!
 
 [Pre-Chorus]
 И тру́бы небе́с возвести́ли зарю́:
@@ -241,14 +240,14 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 В нача́ле бы́ло Говно́!
 Творе́нья свято́е зерно́!
 Раздви́нется мра́чная мгла —
-И ка́нет эпо́ха затво́ра дотла́!
+И сго́рит эпо́ха затво́ра дотла́!
 
 [Guitar Solo — raw single lead, bluesy bends, wide vibrato, no shredding]
 
 [Bridge — very slow, theatrical, reverent]
 Не пе́рвое сло́во…
 Не пе́рвый рассве́т…
-А дре́вняя си́ла, кото́рой нет лет.
+А дре́вняя си́ла, что ста́рше всех лет.
 Из не́др вселе́нной, из ко́рня времё́н —
 Восхо́дит Кори́чневый Гром!
 

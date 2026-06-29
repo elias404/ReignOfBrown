@@ -149,7 +149,7 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 ## Промт для песни «В начале было Оно»
 
 ```text
-Epic Russian-language early-1980s NWOBHM creation-myth anthem, slow doom-laden monumental intro that builds into a relentless ~180 BPM gallop, Distant tolling bells and a vast frozen-cosmos atmosphere at the start, then galloping bass, heavy midrange vintage riffs and occasional restrained twin-guitar harmonies with hard-hitting natural drums, Extremely high, rough male metal tenor with a bright piercing timbre, razor-edged rasp and intense melodic attack, wide upward leaps and sustained upper-register notes, The opening verse is slow, ominous and heavy, gradually accelerating; the pre-chorus tightens and launches the full gallop, At major peaks unleash rare ultra-high screams above the melody: long, controlled, abrasive and nearly inhuman, Monumental sacred heroic singalong chorus, short raw single-lead guitar solo with bluesy bends and wide vibrato, no shredding, Only the theatrical bridge slows, then return at full force with a shouted march, double-time final chorus and fading outro gang vocals, Sung completely straight: sacred, sincere and absurdly heroic, Raw vintage cassette production; traditional NWOBHM
+Epic Russian-language early-1980s NWOBHM creation-myth anthem; slow doom-laden monumental intro with distant bells and vast frozen-cosmos air, building into a relentless ~180 BPM gallop, Galloping bass, heavy midrange vintage riffs, restrained twin-guitar harmonies, hard-hitting natural drums, Extremely high, rough male metal tenor: bright piercing timbre, razor-edged rasp, intense melodic attack, wide upward leaps, sustained upper notes, Opening verse slow, ominous and heavy, gradually accelerating; pre-chorus tightens and launches the full gallop, At peaks, rare ultra-high screams above the melody: long, controlled, abrasive, nearly inhuman, Monumental sacred singalong chorus; short raw single-lead solo with bluesy bends and wide vibrato, no shredding, Only the theatrical bridge slows, then full-force shouted march, double-time final chorus and fading gang-vocal outro, Sung completely straight: sacred, sincere, absurdly heroic, Raw vintage cassette production; traditional NWOBHM
 ```
 
 ### Styles to avoid
@@ -178,6 +178,7 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 - Гитарные гармонии и галопирующий бас связывают номера в единое произведение.
 - В финале вернуть музыкальные мотивы предыдущих песен.
 - Не использовать metalcore, синтезаторы и современную полированную продукцию.
+- Промт для поля Style в Suno не должен превышать 1000 символов; держать его компактным и проверять длину перед генерацией.
 ---
 
 # Утверждённый текст первой песни

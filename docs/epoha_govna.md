@@ -149,20 +149,22 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 ## Промт для песни «В начале было Оно»
 
 ```text
-Epic Russian-language early-1980s NWOBHM creation-myth anthem; slow doom-laden monumental intro with distant bells and vast frozen-cosmos air, building into a relentless ~180 BPM gallop, Galloping bass, heavy midrange vintage riffs, restrained twin-guitar harmonies, hard-hitting natural drums, Extremely high, rough male metal tenor: bright piercing timbre, razor-edged rasp, intense melodic attack, wide upward leaps, sustained upper notes, Opening verse slow, ominous and heavy, gradually accelerating; pre-chorus tightens and launches the full gallop, At peaks, rare ultra-high screams above the melody: long, controlled, abrasive, nearly inhuman, Monumental sacred singalong chorus; short raw single-lead solo with bluesy bends and wide vibrato, no shredding, Only the theatrical bridge slows, then full-force shouted march, double-time final chorus and fading gang-vocal outro, Sung completely straight: sacred, sincere, absurdly heroic, Raw vintage cassette production; traditional NWOBHM
+Epic Russian-language early-1980s NWOBHM creation-myth anthem; brief slow intro that quickly erupts into a relentless ~180 BPM gallop, Galloping bass, heavy midrange vintage riffs, restrained twin-guitar harmonies, hard-hitting natural drums, Extremely high, rough male metal tenor: bright piercing timbre, razor-edged rasp, aggressive soaring attack, wide upward leaps; vocals stay powerful, driving and heroic, never mournful, sentimental or chanson-like, even in slow parts, At peaks, rare ultra-high screams above the melody: long, controlled, abrasive, At the slow theatrical bridge keep weight and tension, then full-force shouted march, double-time final chorus and short gang-vocal outro, Short instrumental sections; one brief raw single-lead solo with bluesy bends, no shredding, Major-key heroic feel, sung completely straight: sacred, sincere, absurdly heroic, Raw vintage cassette production; traditional NWOBHM
 ```
 
 ### Styles to avoid
 
 ```text
-metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic metal, modern European power metal, speed metal, neoclassical metal, shred guitar, sweep picking, rapid arpeggios, video-game-like melodies, synths, keyboards, polished modern production, comedy vocals
+chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful crooning, dirge, lament, slow minor-key dirge, droning vocals, metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic metal, modern European power metal, speed metal, neoclassical metal, shred guitar, sweep picking, rapid arpeggios, video-game-like melodies, synths, keyboards, polished modern production, comedy vocals
 ```
 
 ### Инструкции для генерации
 
 - Suno, режим Custom. В поле текста — вся лирика ниже вместе с английскими тегами секций в квадратных скобках: они задают подачу, и их нужно сохранять.
 - В поле Style — промт выше; список «Styles to avoid» — в Exclude Styles (или в конце Style через `avoid:`), чтобы не сполз в современный экстремальный металл.
-- Ключевая задача песни — переход «медленный думовый интро → галоп». Следить, чтобы `[Intro]` и начало `[Verse 1]` остались медленными и тяжёлыми, а гитарный галоп врывался на `[Pre-Chorus]`.
+- Ключевая задача песни — переход «короткий медленный интро → галоп». Интро держать сжатым и тяжёлым (несколько тактов), галоп должен врываться уже к концу `[Verse 1]` / на `[Pre-Chorus]`, без долгого раскачивания.
+- Вокал — агрессивный мажорно-героический металл, а не русский шансон/эстрада. Если мелодия голоса звучит заунывно, минорно-сентиментально или «под шансон» — перегенерировать; усилить в Style мажорно-героическую подачу и держать в Exclude шансон/эстраду/dirge/droning vocals.
+- Инструментальные секции (интро, соло, проигрыши) держать короткими: один сжатый сольный проигрыш, без длинных инструментальных пауз и затянутых концовок.
 - Кульминационные крики `РАЗВЕ́РЗНИСЬ!`, `ОТОПРУ́!` и особенно финальный `ГОВНО́-О-О-О-О-О!` — редкие ультравысокие надрывные вскрики поверх мелодии, не гроул.
 - Голос обязан совпадать с песней «Каловый Валитель идёт»: высокий, яркий, надрывный мужской тенор. При расхождении тембра перегенерировать или дотянуть через продолжение того же сида.
 - `[Final Chorus — double tempo]` — удвоенный темп; выбирать дубль, где припев читается чисто и пригоден для хорового скандирования.
@@ -188,7 +190,7 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 ## «В начале было Оно»
 
 ```text
-[Intro — extremely slow, doom-laden, distant tolling bells, monstrous and monumental]
+[Intro — short, slow and ominous, distant bells, quickly building into the gallop]
 До пе́рвой звезды́, до рожде́нья огня́,
 В безмо́лвной утро́бе дрема́ла она́.
 
@@ -242,9 +244,9 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 Раздви́нется мра́чная мгла —
 И сго́рит эпо́ха затво́ра дотла́!
 
-[Guitar Solo — raw single lead, bluesy bends, wide vibrato, no shredding]
+[Guitar Solo — short, raw single lead, bluesy bends, no shredding]
 
-[Bridge — very slow, theatrical, reverent]
+[Bridge — slow but heavy and tense, theatrical, not mournful]
 Не пе́рвое сло́во…
 Не пе́рвый рассве́т…
 А дре́вняя си́ла, что ста́рше всех лет.

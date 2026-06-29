@@ -149,7 +149,7 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 ## Промт для песни «В начале было Оно»
 
 ```text
-Epic Russian-language early-1980s NWOBHM creation-myth anthem; brief slow intro that quickly erupts into a relentless ~180 BPM gallop, Galloping bass, heavy midrange vintage riffs, restrained twin-guitar harmonies, hard-hitting natural drums, Extremely high, rough male metal tenor: bright piercing timbre, razor-edged rasp, aggressive soaring attack, wide upward leaps; vocals stay powerful, driving and heroic, never mournful, sentimental or chanson-like, even in slow parts, At peaks, rare ultra-high screams above the melody: long, controlled, abrasive, At the slow theatrical bridge keep weight and tension, then full-force shouted march, double-time final chorus and short gang-vocal outro, Short instrumental sections; one brief raw single-lead solo with bluesy bends, no shredding, Major-key heroic feel, sung completely straight: sacred, sincere, absurdly heroic, Raw vintage cassette production; traditional NWOBHM
+Epic, fast and aggressive Russian-language early-1980s NWOBHM creation-myth anthem, ~190 BPM, brief slow intro that quickly erupts into a relentless gallop, Galloping bass, heavy midrange vintage riffs, restrained twin-guitar harmonies, hard-hitting natural drums, Extremely high, rough male metal tenor: bright piercing timbre, razor-edged rasp, aggressive soaring attack, Punchy staccato syllabic phrasing, hard rhythmic accents, one note per syllable, fast clipped lines, no melisma or long held vowels, never mournful, sentimental or chanson-like, At peaks, rare ultra-high screams above the melody: long, controlled, abrasive, Monumental heroic singalong chorus; one short raw single-lead solo with bluesy bends, no shredding, Slow theatrical bridge stays heavy and tense, then full-force shouted march, double-time final chorus, short gang-vocal outro, Major-key heroic feel, sung completely straight: sacred, sincere, absurdly heroic, Raw vintage cassette production; traditional NWOBHM
 ```
 
 ### Styles to avoid
@@ -164,6 +164,7 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 - В поле Style — промт выше; список «Styles to avoid» — в Exclude Styles (или в конце Style через `avoid:`), чтобы не сполз в современный экстремальный металл.
 - Ключевая задача песни — переход «короткий медленный интро → галоп». Интро держать сжатым и тяжёлым (несколько тактов), галоп должен врываться уже к концу `[Verse 1]` / на `[Pre-Chorus]`, без долгого раскачивания.
 - Вокал — агрессивный мажорно-героический металл, а не русский шансон/эстрада. Если мелодия голоса звучит заунывно, минорно-сентиментально или «под шансон» — перегенерировать; усилить в Style мажорно-героическую подачу и держать в Exclude шансон/эстраду/dirge/droning vocals.
+- Если выходит распевно/растянуто (мелизмы, долгие тянущиеся гласные) — поднять темп (целевые ~190 BPM, при необходимости выше) и/или ужесточить ритмику: слоговая стаккато-подача, один слог на ноту, жёсткие акценты на доли, короткие рубленые фразы. Куплеты должны быть ритмичными и колючими, а не напевными.
 - Инструментальные секции (интро, соло, проигрыши) держать короткими: один сжатый сольный проигрыш, без длинных инструментальных пауз и затянутых концовок.
 - Кульминационные крики `РАЗВЕ́РЗНИСЬ!`, `ОТОПРУ́!` и особенно финальный `ГОВНО́-О-О-О-О-О!` — редкие ультравысокие надрывные вскрики поверх мелодии, не гроул.
 - Голос обязан совпадать с песней «Каловый Валитель идёт»: высокий, яркий, надрывный мужской тенор. При расхождении тембра перегенерировать или дотянуть через продолжение того же сида.
@@ -195,7 +196,7 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 И не́бо, и бе́здна — всё бы́ло темно́.
 Но в ко́рне творе́нья таи́лось Оно́.
 
-[Verse 1 — slow, heavy, ominous, monumental, building]
+[Verse 1 — driving staccato gallop, hard accents, punchy syllabic delivery]
 Но мир охвати́л недви́жимый плен:
 Вели́кий Затво́р — запусте́нье и тлен.
 Засты́ли все ре́ки, согну́лись хребты́,
@@ -210,7 +211,7 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 [Lead vocal — explosive ultra-high piercing metal shriek]
 РАЗВЕ́РЗНИСЬ!
 
-[Chorus — monumental, sacred, singalong]
+[Chorus — monumental, sacred, punchy singalong, strong on-beat accents]
 В нача́ле бы́ло Говно́!
 До не́ба и су́ши — оно́!
 Сквозь хо́лод вселе́нской тюрьмы́
@@ -220,7 +221,7 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 Раздви́нется мра́чная мгла —
 И сго́рит эпо́ха затво́ра дотла́!
 
-[Verse 2 — full-speed galloping power]
+[Verse 2 — full-speed gallop, punchy syncopated staccato vocal, hard accents]
 Из дре́вних глуби́н — гро́хот, пла́мя и свет,
 Восста́л Вали́тель, кому́ ра́вных нет.
 В руке́ полыха́ет коме́тный ёрш,

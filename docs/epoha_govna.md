@@ -219,7 +219,7 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 В нача́ле бы́ло Говно́!
 Творе́нья свято́е зерно́!
 Раздви́нется мра́чная мгла —
-И сго́рит эпо́ха затво́ра дотла́!
+И ру́шится тьмы́ векова́я кабала́!
 
 [Verse 2 — full-speed gallop, punchy syncopated staccato vocal, hard accents]
 Из дре́вних глуби́н — гро́хот, пла́мя и свет,
@@ -244,7 +244,7 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 В нача́ле бы́ло Говно́!
 Творе́нья свято́е зерно́!
 Раздви́нется мра́чная мгла —
-И сго́рит эпо́ха затво́ра дотла́!
+И ру́шится тьмы́ векова́я кабала́!
 
 [Guitar Solo — short, raw single lead, bluesy bends, no shredding]
 

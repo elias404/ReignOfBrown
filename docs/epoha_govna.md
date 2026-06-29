@@ -252,7 +252,7 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 Не пе́рвое сло́во…
 Не пе́рвый рассве́т…
 А дре́вняя си́ла, что ста́рше всех лет.
-Из не́др вселе́нной, из ко́рня времё́н —
+Из не́др вселе́нной, из ко́рня времён —
 Восхо́дит Кори́чневый Гром!
 
 [Breakdown — shouted, emotional, epic, dramatic, theatrical]
@@ -265,10 +265,10 @@ chanson, Russian chanson, shanson, Russian estrada, sentimental ballad, mournful
 В нача́ле бы́ло Говно́!
 До не́ба и су́ши — оно́!
 Раско́лется свод ледяно́й —
-И ми́р потечё́т за судьбо́й!
+И ми́р потечёт за судьбо́й!
 В нача́ле бы́ло Говно́!
 Творе́нья свято́е зерно́!
-Взойдё́т над вселе́нной звезда́ —
+Взойдёт над вселе́нной звезда́ —
 Кори́чневый зна́к навсегда́!
 
 [Full band stop — brief silence]

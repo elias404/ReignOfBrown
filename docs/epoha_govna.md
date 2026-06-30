@@ -369,7 +369,7 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 ### Промт для Suno
 
 ```text
-New Wave of British Heavy Metal (NWOBHM), ~200 BPM, extremely high male lead vocal. Lead is an extremely high, powerful, piercing tenor with huge range, soaring sustained upper notes, fierce head register and glass-cutting high screams. Supporting male voices and a big male gang choir on the hooks. Heroic, defiant, tragic grandeur; no synths, no modern polish.
+New Wave of British Heavy Metal (NWOBHM), ~220 BPM, extremely high male lead vocal. Lead is an extremely high, powerful, piercing tenor with huge range, soaring sustained upper notes, fierce head register and glass-cutting high screams. Supporting male voices and a big male gang choir on the hooks. Heroic, defiant, tragic grandeur; no synths, no modern polish.
 ```
 
 ### Styles to avoid
@@ -381,13 +381,12 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 ### Черновик текста
 
 ```text
-[Verse 1 — clean high male voice]
+
 Над тёмной пучи́ной,
 Где Сли́ва оплот,
 Пред би́твой Вали́тель
 Заме́длил свой ход.
 
-[Soaring extremely high powerful metal tenor, dominant above all]
 Ты ё́ршик вознёс к облака́м,
 На трон мирозда́нья взошёл,
 Дал во́лю огню́ и века́м,
@@ -413,17 +412,17 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 
 [Guitar Solo]
 
-[Slow Heavy Bridge — only 8–12 seconds, weighty toms, sustained power chords, clipped urgent male voices, then a forceful return to the main gallop]
-[firm clean male voice, tense mid register]
 Ты вста́л ме́жду Да́ром
 И я́ростью вод.
 
-[Tense clean male voice]
 И гро́хот над ми́ром
 Предве́стил исхо́д.
 
-[Verse 3 — forceful return to the main gallop, soaring into the extreme upper register]
-[extremely high powerful tenor]
+И све́т твой уга́с,
+Погружа́ясь во мглу,
+Как и́скра, что ка́нула
+В ве́чную тьму.
+
 Ты Да́р сотвори́л
 Не для сла́вы свое́й.
 В него́ дух заключи́л
@@ -437,32 +436,11 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 
 [Instrumental break — full band crashes back in at full force, harmonized twin-guitar lead over the pounding gallop, building straight into the declaration]
 
-[Breakdown — main vocal stays lead; full-band stops divide the lines, male gang vocals double the middle declaration]
-[three rising ultra-high declarations, glass-cutting belt]
 Ты ДАР СОТВОРИ́Л!
 
-[Full band stop — complete silence, then male gang vocals join behind the lead]
 И ОТДА́Л ЕГО́ МИ́РУ!
 
-[Full band crash — massive chord and cymbal hit]
 И ДУХ ЕГО́ С НА́МИ!
-
-[Final Chorus — one continuous lead at maximum intensity over the full gallop; male gang vocals double only the final hook]
-[continuous ultra-high piercing metal tenor, Beast in Black style]
-Да́р Глуби́н!
-Ты вы́ковал Да́р, как заве́т, —
-Ты ми́ру даро́ванный свет!
-Сия́ет он ты́сячи лет!
-Да́р Глуби́н!
-Ты ги́бнешь под чёрными волна́ми,
-Но Да́р пронесётся века́ми —
-НО ДАР БУ́ДЕТ С НА́МИ!
-
-[Outro — broad full-band coda, layered male gang vocals, no fade]
-Да́р Глуби́н!
-Да́р Глуби́н!
-Он пра́вит века́ми —
-ОН ВЕ́ЧНО С НА́МИ!
 
 ```
 

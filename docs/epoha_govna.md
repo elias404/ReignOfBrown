@@ -396,9 +396,9 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 И не́дра подо мно́й
 Раскали́лись добела́.
 Во мне́ ожива́ла руда́,
-Мой дух — жар глуби́н —
+Пыла́л жар глуби́н —
 Я Да́р сотвори́л!
-В него́ свою́ во́лю вложи́л!
+В него́ свой дух вложи́л!
 
 [Pre-Chorus — two vocal blocks, escalating palm-muted riff and snare accents]
 [Voice of Stone]

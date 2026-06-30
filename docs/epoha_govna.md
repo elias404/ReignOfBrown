@@ -381,9 +381,6 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 ### Черновик текста
 
 ```text
-
-[Intro]
-
 [Verse 1 — clean high male voice]
 На ка́менном скло́не —
 У бе́лых воро́т —

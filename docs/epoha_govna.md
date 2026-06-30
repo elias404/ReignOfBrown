@@ -418,20 +418,20 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Свой свяще́нный заве́т!
 
 [Pre-Chorus — one continuous high male lead, drums and twin guitars rising]
-[Voice of Sky — same bright clean high male voice]
+[bright clean high male voice]
 Умо́лкли все звёзды,
 Молча́ла вся ночь.
 Но страх свой пред Сли́вом
 Ты смог превозмо́чь!
 
 [Chorus — broad anthemic shout-along hook, darker and heavier arrangement]
-[Choir — big male gang vocals]
+[big male gang vocals]
 Да́р Глуби́н!
 Кори́чневый свет!
 Из ду́ха и во́ли —
 Свяще́нный заве́т!
 
-[Valitel and Choir — soaring ultra-high male lead over big male gang vocals]
+[soaring ultra-high male lead over big male gang vocals]
 Да́р Глуби́н!
 Плоть обрати́тся во прах —
 Оста́нется Да́р!
@@ -450,7 +450,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 [Guitar Solo]
 
 [Slow Heavy Bridge — only 8–12 seconds, weighty toms, sustained power chords, clipped urgent male voices, then a forceful return to the main gallop]
-[Voice of Stone — same firm clean male voice, tense mid register]
+[firm clean male voice, tense mid register]
 Ты вста́л ме́жду Да́ром
 И я́ростью вод.
 
@@ -466,22 +466,26 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Ра́ди бу́дущих дней.
 Пусть во́ды встаю́т
 Вы́ше не́ба и огня́ —
-Его́ не смету́т
-[Brief pause, all music stops]
-[climactic sustained ultra-high long metal scream, song culmination]
-ДА-А-А-А-А-АР!
+Его́ не смету́т —
 
-[Breakdown — main vocal stays lead; full-band stops divide the lines, male Choir doubles the middle declaration]
+[Full stop — total silence, long dramatic pause, all instruments cut]
+
+[Lead vocal alone in the silence — the highest, longest, most piercing ultra-high scream of the entire song; the absolute culmination]
+И-И-И-ХУ-У-У-У-Я-Я-Я-Я-Я!
+
+[Instrumental break — full band crashes back in at full force, harmonized twin-guitar lead over the pounding gallop, building straight into the declaration]
+
+[Breakdown — main vocal stays lead; full-band stops divide the lines, male gang vocals double the middle declaration]
 [three rising ultra-high declarations, glass-cutting belt]
 Ты ДАР СОТВОРИ́Л!
 
-[Full band stop — complete silence, then male Choir joins behind Valitel]
+[Full band stop — complete silence, then male gang vocals join behind the lead]
 И ОТДА́Л ЕГО́ МИ́РУ!
 
 [Full band crash — massive chord and cymbal hit]
 И ДУХ ЕГО́ С НА́МИ!
 
-[Final Chorus — one continuous lead at maximum intensity over the full gallop; male Choir doubles only the final hook]
+[Final Chorus — one continuous lead at maximum intensity over the full gallop; male gang vocals double only the final hook]
 [continuous ultra-high piercing metal tenor, Beast in Black style]
 Да́р Глуби́н!
 Ты вы́ковал Да́р для свобо́ды —

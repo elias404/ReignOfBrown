@@ -392,11 +392,11 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 
 [Valitel — dominant extremely high clean metal tenor]
 Я ё́ршик вознёс
-И взошёл на престо́л.
-И не́дра подо мно́й
-Раскали́лись добела́.
+Под мерца́нием звёзд.
+На престо́л я взошёл —
+В не́драх пла́мень расцвёл.
 Во мне́ ожива́ла руда́,
-Пыла́л жар глуби́н —
+Раскаля́лась она́ добела́.
 Я Да́р сотвори́л!
 В него́ свой дух вложи́л!
 
@@ -429,15 +429,15 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 Над ми́ром откры́лся
 Небе́сный проло́м.
 На Да́р наступа́л
-Неотсту́пный пото́к.
+Разъярённый прибо́й.
 
 [Voice of Water — tense clean male voice]
-И с не́ба на Да́р
-Обру́шился Слив!
+И с не́ба упа́л
+Слив тяжёлой волно́й!
 Кто Да́р сотвори́л
 И выно́сит на свет,
-Тот жи́знью свое́ю
-Храни́т сей заве́т!
+Тот ду́хом скрепи́л
+Свой свяще́нный заве́т!
 
 [Pre-Chorus — one continuous high male lead, thrash beat and riff escalating]
 [Voice of Sky — same bright clean high male voice]
@@ -464,22 +464,22 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 [Half-Time Hit — only 6–8 seconds, crushing toms and choked distorted guitar, clipped urgent voices, immediate double-time return]
 [Voice of Stone — same firm clean male voice, tense mid register]
 Он вста́л между Да́ром
-И во́дною бе́здной.
+И я́ростью вод.
 
 [Voice of Water — same tense clean male voice]
-И гро́хотом Сли́ва
-Был мир потрясён.
+И гро́хот над ми́ром
+Предве́стил исхо́д.
 
 [Revelation — immediate thrash-beat return, Valitel rising into the extreme upper register]
 [Valitel]
 Я Да́р сотвори́л
 Не для сла́вы свое́й.
-Не да́м ему сги́нуть
-Во мра́ке море́й.
-Пусть во́ды подни́мутся
-Вы́ше огня́ —
-Он бу́дет свобо́ден
-И переживёт меня́!
+В него́ дух заключи́л
+Ра́ди бу́дущих дней.
+Пусть во́ды встаю́т
+Вы́ше не́ба и огня́ —
+Его́ не смету́т —
+Он переживёт меня́!
 
 [Declaration Sequence — Valitel remains the lead throughout; full-band stops divide the lines, male Choir only doubles the middle declaration]
 [Valitel — three rising ultra-high declarations]
@@ -498,14 +498,14 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 Я вы́ковал Да́р для свобо́ды —
 Ты ми́ру даро́ванный свет!
 Та́йна Да́ра Глуби́н!
-На́ши су́дьбы сплете́ны.
+На́ша связь скреплена́.
 Мой путь обрыва́ется здесь —
 Но ты переживёшь меня́!
 
 [Outro — maximum-speed full-band coda, hostile layered voices, final glass-cutting scream, no fade]
 [Valitel and male Choir — one continuous layered block, Valitel stays an octave above]
 Я Да́р сотвори́л…
-И отда́л его́ ми́ру…
+И ми́ру вручи́л…
 Он бу́дет жить…
 По́сле меня́!
 ```
@@ -557,7 +557,7 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 - Либретто: готово.
 - Текст первой песни «В начале было Оно»: утверждён.
 - Текст второй песни «Каловый Валитель идёт»: утверждён.
-- Текст третьей песни «Тайна Дара Глубин»: третий черновик распределён между Валителем, голосами Стихий и Хором крупными смысловыми блоками без построчной смены солиста.
+- Текст третьей песни «Тайна Дара Глубин»: третий черновик распределён крупными вокальными блоками, выровнен до 5–9 слогов в строке и усилен парными и перекрёстными рифмами.
 - Текст четвёртой песни «Слив» с кодой «Эпоха Говна»: не написан.
 - Промт для первой песни «В начале было Оно»: готов.
 - Промт для второй песни «Каловый Валитель идёт»: готов.

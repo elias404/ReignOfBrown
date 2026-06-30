@@ -418,7 +418,7 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 
 [Valitel and Choir — soaring lead over hostile gang vocals]
 Та́йна Да́ра Глуби́н!
-Когда́ ко́нчится плоть —
+Плоть обрати́тся во прах —
 Оста́нется Да́р!
 Дух его́ бу́дет ве́чно жить!
 
@@ -455,7 +455,7 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 
 [Valitel and Choir — soaring lead over hostile gang vocals]
 Та́йна Да́ра Глуби́н!
-Когда́ ко́нчится плоть —
+Плоть обрати́тся во прах —
 Оста́нется Да́р!
 Дух его́ бу́дет ве́чно жить!
 

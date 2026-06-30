@@ -388,14 +388,14 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Заме́длил свой ход.
 
 [Soaring extremely high powerful metal tenor, dominant above all]
-Ты ё́ршик вознёс
-Под мерца́нием звёзд.
-На престо́л взошёл —
-В не́драх пла́мень расцвёл.
-В тебе́ ожива́ла руда́,
-Раскаля́лась она́ дочерна́.
-Ты Да́р сотвори́л!
-В него́ свой дух вложи́л!
+Ты ё́ршик во тьме вознёс,
+Взошёл на фая́нсовый трон.
+В глуби́нных огня́х, без слёз,
+Тобо́ю мета́лл закалён.
+Руда́ ожила́, горя́,
+До бе́лого жа́ра дошла́, —
+Ты Да́р сотвори́л, не зря́:
+В нём душа́ твоя́ ожила́!
 
 [Verse 2 — two clean male stanzas over galloping bass and a harmonized twin-guitar riff]
 [bright clean high male voice]
@@ -464,6 +464,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Пусть во́ды встаю́т
 Вы́ше не́ба и огня́ —
 Его́ не сметёт и струя́ —
+НИХУЯ
 [The highest, longest, most piercing ultra-high scream of the entire song; the absolute culmination]
 НИХУЯ-А-А-А-А-А!
 

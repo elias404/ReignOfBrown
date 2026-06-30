@@ -398,8 +398,10 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 В него́ ты свой дух вложи́л!
 
 [Chorus — broad anthemic hook; soaring high lead over big male gang vocals]
-[gang vocals]
-Да́р Глуби́н! Да́р Глуби́н!
+[lead] Да́р Глуби́н!
+[gang] (Глуби́н!)
+[lead] Да́р Глуби́н!
+[gang] (Глуби́н!)
 [lead]
 Кто Да́р сотвори́л
 И нёс его́ в свет,
@@ -408,20 +410,25 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Молча́ла вся ночь,
 Но страх свой пред Сли́вом
 Ты смог превозмо́чь!
-[gang vocals]
-Да́р Глуби́н! Да́р Глуби́н!
+[lead] Да́р Глуби́н!
+[gang] (Глуби́н!)
+[lead] Да́р Глуби́н!
+[gang] (Глуби́н!)
 
 [Verse 2 — driving gallop, tense]
 Но в моме́нт свое́й сла́вы
 Ты услы́шал из тьмы́:
+[descending dive-bomb guitar, air-raid wail]
 Слив ри́нулся вниз для распра́вы,
 С разве́рстой небе́сной плиты́,
 Грозя́ поглоти́ть
 И Да́р загуби́ть!
 
 [Chorus — broad anthemic hook; soaring high lead over big male gang vocals]
-[gang vocals]
-Да́р Глуби́н! Да́р Глуби́н!
+[lead] Да́р Глуби́н!
+[gang] (Глуби́н!)
+[lead] Да́р Глуби́н!
+[gang] (Глуби́н!)
 [lead]
 Кто Да́р сотвори́л
 И нёс его́ в свет,
@@ -430,12 +437,15 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Молча́ла вся ночь,
 Но страх свой пред Сли́вом
 Ты смог превозмо́чь!
-[gang vocals]
-Да́р Глуби́н! Да́р Глуби́н!
+[lead] Да́р Глуби́н!
+[gang] (Глуби́н!)
+[lead] Да́р Глуби́н!
+[gang] (Глуби́н!)
 
 [Guitar Solo]
 
 [Bridge — slow, heavy, elegiac; tense clipped male voice, then a gradual swell]
+[a single distant funeral bell tolls]
 Ты вста́л ме́жду Да́ром
 И я́ростью вод.
 
@@ -457,10 +467,12 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Его́ не сметёт и струя́ —
 Нихуя
 
+[gang vocals, rising chant] Да́р! Да́р! Да́р!
+[Full band stop — total silence, long dramatic pause]
 [the highest, longest, most piercing ultra-high scream of the entire song; the absolute culmination]
 НИХУЯ-А-А-А-А-А!
 
-[Instrumental break — the storm subsides into a slow, solemn passage]
+[Instrumental break — harmonized twin-guitar reprise of the main theme, the storm subsiding into a slow, solemn passage]
 
 [Outro — broad solemn full-band coda, elegiac high tenor, no fade]
 Над во́льной землёю

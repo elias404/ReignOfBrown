@@ -362,7 +362,7 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 
 ---
 
-## III. Дар Глубин»
+## III. «Дар Глубин»
 
 **Статус:** текст переведён на классический heavy metal с предельно высоким мужским вокалом в духе Beast in Black (Yannis Papadopoulos); промт и разметка переписаны с нуля. Все сольные голоса и Хор — мужские, Валитель поёт экстремально высоким пронзительным тенором.
 
@@ -437,6 +437,16 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Оста́нется Да́р!
 Дух его́ бу́дет ве́чно жить!
 
+[Chorus — repeat, fuller and higher]
+Да́р Глуби́н!
+Кори́чневый свет!
+Из ду́ха и во́ли —
+Свяще́нный заве́т!
+Да́р Глуби́н!
+Плоть обрати́тся во прах —
+Оста́нется Да́р!
+Дух его́ бу́дет ве́чно жить!
+
 [Guitar Solo]
 
 [Slow Heavy Bridge — only 8–12 seconds, weighty toms, sustained power chords, clipped urgent male voices, then a forceful return to the main gallop]
@@ -459,7 +469,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Его́ не смету́т
 [Brief pause, all music stops]
 [climactic sustained ultra-high long metal scream, song culmination]
-ИИХУЯ
+ДА-А-А-А-А-АР!
 
 [Breakdown — main vocal stays lead; full-band stops divide the lines, male Choir doubles the middle declaration]
 [three rising ultra-high declarations, glass-cutting belt]
@@ -479,6 +489,11 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Да́р Глуби́н!
 Твой путь обрыва́ется здесь —
 НО ДАР БУ́ДЕТ С НА́МИ!
+
+[Outro — broad full-band coda, layered male gang vocals, no fade]
+Да́р Глуби́н!
+Да́р Глуби́н!
+ОН ВЕ́ЧНО С НА́МИ!
 
 ```
 

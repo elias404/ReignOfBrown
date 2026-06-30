@@ -398,7 +398,7 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 Во мне́ ожива́ла руда́,
 Мой дух — жар глуби́н —
 Я Да́р сотвори́л!
-Я путь отвори́л!
+В него́ свою́ во́лю вложи́л!
 
 [Pre-Chorus — two vocal blocks, escalating palm-muted riff and snare accents]
 [Voice of Stone]

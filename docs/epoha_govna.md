@@ -2,7 +2,7 @@
 
 ## Паспорт проекта
 
-**Формат:** юмористическая метал-опера из пяти песен.
+**Формат:** юмористическая метал-опера из четырёх песен.
 
 **Производство:** музыка и вокал генерируются в Suno; либретто, тексты и промты готовятся отдельно.
 
@@ -16,25 +16,33 @@
 - Каловый Валитель безоговорочно находится на стороне добра.
 - Добро и зло представлены абстрактно; отдельного персонажа-злодея нет.
 - **Говно — добро по умолчанию.** Опера не доказывает и не рационализирует этот тезис.
+- Драматургическая дуга оперы: плен и испытание → освобождение и победа → осознание цены победы → окончательная гибель героя.
+- Каловый Валитель в третьей песне собственноручно творит **Дар Глубин** и отдаёт его миру.
+- Говно как первородная сила существовало до мира, а Дар Глубин является конкретным творением Валителя и его наследием.
+- Победа Валителя пробуждает Слив. Чтобы Дар и достигнутая свобода сохранились, герой должен принять поток на себя.
+- В финале Каловый Валитель погибает окончательно и не воскресает. После его смерти продолжает жить Дар, а не сам герой.
+- Слова о «бессмертном герое» во второй песне — героическая гипербола и предчувствие вечной памяти о Валителе, а не обещание телесного возвращения.
 - Хор не является самостоятельным персонажем: это голос мира, судьбы, канализации и всеобщего откровения.
 - В основе юмора — сочетание сортирной темы с религиозным, космогоническим и героико-философским пафосом.
-- В текстах нужны аллегории и аллюзии на говно: Коричневая Тайна, Великий Затвор, замки мироздания, фаянсовый престол, древние глубины, Великий Смыв, Коричневое Знамение.
+- В текстах нужны аллегории и аллюзии на говно: Великий Затвор, замки мироздания, фаянсовый престол, древние глубины, Слив, Коричневое Знамение.
 - Рациональные объяснения пользы говна, разговоры о чистоте и сельскохозяйственные обоснования исключены.
 
 ## Правила лирики будущих песен
 
 - Максимально использовать аллюзии, метафоры и возвышенные иносказания о говне.
-- Стараться не называть говно напрямую: его присутствие должно передаваться через образы Коричневой Тайны, древнего истока, фаянсового престола, переполненной чаши, сокрытой бездны и других каловых знамений.
+- Стараться не называть говно напрямую: его присутствие должно передаваться через образы древнего истока, фаянсового престола, переполненной чаши, сокрытой бездны и других каловых знамений.
 - Прямое слово «говно» оставлять преимущественно для важнейших кульминаций, где оно должно звучать как откровение или финальный удар, например: «Ныне настала эпоха говна!»
 - Чем возвышеннее и мистичнее метафора, тем серьёзнее она должна исполняться; текст не подмигивает слушателю и не объясняет шутку.
 
 ## Действующие силы
 
-**Каловый Валитель** — герой, исторгнутый самой Судьбой. Носит коричневые доспехи и владеет священным ёршиком.
+**Каловый Валитель** — герой, исторгнутый самой Судьбой. Носит коричневые доспехи, владеет священным ёршиком и является творцом Дара Глубин.
+
+**Дар Глубин** — сотворённое Валителем воплощение первородной силы Говна. После гибели героя остаётся миру как его последний завет.
 
 **Хор** — безличный коллективный голос.
 
-**Зло** — абстрактное небытие, наиболее полно проявляющееся как Великий Смыв.
+**Зло** — абстрактное небытие, наиболее полно проявляющееся как Слив.
 
 ---
 
@@ -42,7 +50,7 @@
 
 ## I. «В начале было Оно»
 
-До верха и низа существовала Коричневая Тайна. Нерождённые звёзды уже содрогались, предчувствуя её явление.
+До верха и низа существовало лишь Оно. Нерождённые звёзды уже содрогались, предчувствуя его явление.
 
 Но Вселенную сковал Великий Затвор. Реки остановились, горы сжались, время застыло на фаянсовом престоле.
 
@@ -75,78 +83,55 @@
 
 ## III. «Тайна Дара Глубин»
 
-Перед решающей битвой Валитель погружается в раздумья:
+Перед решающей битвой Валитель восходит на фаянсовый престол. Из собственной плоти, воли и древнего жара он творит Дар Глубин — зримое воплощение первородной силы.
 
-> Несёт ли человек говно —  
-> или говно несёт человека?  
->  
-> Где заканчивается Дар
-> и начинается вечность?  
->  
-> Если говно упало в бездну  
-> и никто его не унюхал —  
-> свершилось ли испражнение?
+Но вместе с творением Дара Валитель слышит приближение небесных вод. Разрушение Великого Затвора пробудило Слив: всё вышедшее на свободу должно быть вновь низвергнуто в бездну.
 
-Валитель возлагает ладонь на Дар Глубин и постигает непостижимое:
+Валитель постигает цену победы. Он может отступить и позволить Затвору сомкнуться вновь либо сохранить открытый путь, принять Слив на себя и погибнуть. Герой выбирает Дар и достигнутую миром свободу:
 
-> Я не владею Говном.  
-> Я принадлежу ему.
+> Я Дар сотворил — и отдал его миру!
+> Он будет жить после меня!
 
-## IV. «Великий Смыв»
+## IV. «Слив»
 
-Начинается последний натиск Зла. Небесные бачки разверзаются, и Великий Смыв обрушивается на мир.
+Начинается последний натиск Зла. Небесные бачки разверзаются, и Слив обрушивается на мир, стремясь уничтожить Дар и снова сомкнуть Великий Затвор.
 
-Валитель встаёт перед Последней Кучей. Поток разбивает его доспехи, но он поднимает ёршик и входит в бушующую воду.
+Валитель встаёт между потоком и Даром Глубин. Пока он удерживает путь открытым, всё сокрытое выходит наружу, а Дар распространяется по трубам мира. Поток разбивает доспехи героя, но он поднимает ёршик и входит в бушующую воду.
 
-> Меня можно смыть!  
+Перед последним шагом Валитель повторяет свой лейтмотив, который теперь становится эпитафией:
+
+> Я Дар сотворил — мой последний завет!
+> Он вечен — а мне возвращения нет!
+
+> Меня можно смыть!
 > Но нельзя смыть Говно!
 
-Валитель исчезает в пучине. Через мгновение все трубы мира извергаются одновременно.
+Валитель принимает весь Слив на себя и навсегда исчезает в пучине. Через мгновение все трубы мира извергаются одновременно.
 
-Великий Смыв захлёбывается.
+Слив захлёбывается.
 
-## V. «Эпоха Говна»
+Освобождённая земля покрывается бесконечной Кучей. Над нею восходит Коричневое Солнце. Каловый Валитель не возвращается; его голос умолкает навсегда.
 
-Земля покрывается бесконечной Кучей. Над нею восходит Коричневое Солнце.
-
-Каловый Валитель возвращается — огромный, смердящий и сияющий. Теперь он говорит голосами всех канализаций.
-
-Хор провозглашает:
+В финальной коде **«Эпоха Говна»** хор провозглашает:
 
 > Говно внизу!  
 > Говно вверху!  
 > Говно снаружи!  
 > Говно внутри!
 
-Валитель возносит ёршик над миром:
-
-> Я был человеком.  
-> Я стал Валителем.  
-> Теперь я — Говно!
-
-Коричневый гром раскалывает небеса.
+Музыка возвращает тему Валителя, но место его вокального вступления остаётся пустым. Коричневый гром раскалывает небеса.
 
 > **ЭПОХА ГОВНА НАСТАЛА!**
 
 ---
 
-# Музыкальная концепция
+# Песни
 
-## Промт для песни «Каловый Валитель идёт»
+## I. «В начале было Оно»
 
-```text
-Epic, fast and aggressive Russian-language early-1980s NWOBHM anthem, ~185 BPM, Relentless galloping bass, heavy midrange vintage riffs, occasional restrained twin-guitar harmonies and hard-hitting natural drums, Extremely high, rough male metal tenor with a bright piercing timbre, razor-edged rasp, intense melodic attack, wide upward leaps and sustained upper-register notes, At major peaks, unleash rare ultra-high screams above the melody: long, controlled, abrasive and nearly inhuman, Verses stay fast, tense and melodically active, with punchy rapid phrasing, rising vocal lines and guitar responses, Monumental heroic singalong chorus; short raw single-lead guitar solo with bluesy bends, wide vibrato and melodic phrasing, no shredding, Only the theatrical bridge slows, then return at full force with a shouted march, double-time final chorus and fading outro gang vocals, Sung completely straight: sacred, sincere and absurdly heroic, Raw vintage production; traditional NWOBHM
-```
+**Статус:** текст утверждён и входит в канон метал-оперы; промт готов.
 
-### Styles to avoid
-
-```text
-metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic metal, modern European power metal, speed metal, neoclassical metal, shred guitar, sweep picking, rapid arpeggios, video-game-like melodies, synths, keyboards, polished modern production, comedy vocals
-```
-
-Промт задаёт голос и базовую эстетику оперы. Для остальных песен позднее создаются отдельные версии с нужным темпом и драматургией.
-
-## Промт для песни «В начале было Оно»
+### Промт для Suno
 
 ```text
 Russian-language early-1990s traditional heavy metal epic, long-form and dramatic, main section ~115 BPM in firm 4/4. Very slow ominous drumless intro with distant bells, clean guitar arpeggios and low drone; sparse prophetic tenor. Full band enters with a massive mid-tempo riff, melodic bass, natural roomy drums and restrained twin-guitar harmonies. High rough-edged clean tenor; narrative verses with active rising and falling melodies, measured pauses, wide upward leaps and controlled vibrato, never crooning. Dark declarative chorus with heavy downbeats and sustained vocal peaks, not a cheerful singalong. Dynamic shifts between restrained tension and full-band weight; lyrical guitar solo, dramatic reprise and climactic final chorus. Warm early-1990s analog production, strong midrange and human timing; no synths, modern power-metal gloss, extreme vocals or chanson phrasing.
@@ -171,36 +156,7 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, Russian folk ball
 - Голос обязан совпадать с песней «Каловый Валитель идёт»: высокий, яркий, надрывный мужской тенор. При расхождении тембра перегенерировать или дотянуть через продолжение того же сида.
 - Финальный припев остаётся в том же темпе, но становится плотнее и выше по вокалу. Выбирать дубль с ясным контрастом интро и основного риффа, активной мелодией куплетов и разборчивым припевом.
 
-## Промт для песни «Тайна Дара Глубин»
-
-```text
-Russian-language early-1990s traditional heavy metal mystical epic, ~100 BPM in firm 4/4. Brief clean-guitar opening, then a weighty mid-tempo riff, melodic bass, natural roomy drums and restrained twin-guitar harmonies. High rough-edged clean tenor, solemn and questioning; verses use active rising and falling melodies, measured pauses and wide upward leaps, never spoken or crooned. First chorus arrives early as a dark monumental hook. Each philosophical question increases tension; later choruses grow heavier. Lyrical guitar solo leads into a sparse revelation bridge, then a full-band stop and two explosive high vocal declarations. Final chorus is broad, transcendent and climactic. Warm early-1990s analog production, strong midrange and human timing; no synths, modern power-metal gloss, extreme vocals, comedy phrasing or chanson.
-```
-
-### Styles to avoid
-
-```text
-chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental ballad, soft rock, pop rock, spoken word, monotone recitative, crooning, melismatic vocals, excessive vibrato, droning vocals, waltz, 6/8 ballad, symphonic metal, modern power metal, speed metal, thrash metal, metalcore, deathcore, growls, guttural vocals, low baritone lead, neoclassical metal, shred guitar, sweep picking, rapid arpeggios, synths, keyboards, orchestral pads, polished modern production, comedy vocals
-```
-
-## Общие музыкальные правила
-
-- Сохранить единый голос Калового Валителя во всех пяти песнях.
-- Использовать высокий, надрывный, театральный мужской вокал.
-- Вокал должен быть максимально эмоциональным и пафосным, доходя до абсурда: драматические вскрики, долгие верхние ноты, героический надрыв и пророческая декламация.
-- При всей гиперболе вокальная и музыкальная подача не должна сильно выходить за рамки традиционного NWOBHM и превращаться в современный экстремальный металл или пародийный мюзикл.
-- Главные припевы должны быть простыми, монументальными и пригодными для хорового скандирования.
-- Гитарные гармонии и галопирующий бас связывают номера в единое произведение.
-- В финале вернуть музыкальные мотивы предыдущих песен.
-- Не использовать metalcore, синтезаторы и современную полированную продукцию.
-- Промт для поля Style в Suno не должен превышать 1000 символов; держать его компактным и проверять длину перед генерацией.
----
-
-# Утверждённый текст первой песни
-
-Текст утверждён и входит в канон метал-оперы.
-
-## «В начале было Оно»
+### Утверждённый текст
 
 ```text
 [Intro — very slow, ominous and drumless; distant bells, clean guitar arpeggios, low drone, sparse prophetic tenor]
@@ -298,11 +254,23 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 
 ---
 
-# Утверждённый текст второй песни
+## II. «Каловый Валитель идёт»
 
-Текст утверждён и входит в канон метал-оперы.
+**Статус:** текст утверждён и входит в канон метал-оперы; промт готов. Этот промт задаёт голос и базовую эстетику всей оперы.
 
-## «Каловый Валитель идёт»
+### Промт для Suno
+
+```text
+Epic, fast and aggressive Russian-language early-1980s NWOBHM anthem, ~185 BPM, Relentless galloping bass, heavy midrange vintage riffs, occasional restrained twin-guitar harmonies and hard-hitting natural drums, Extremely high, rough male metal tenor with a bright piercing timbre, razor-edged rasp, intense melodic attack, wide upward leaps and sustained upper-register notes, At major peaks, unleash rare ultra-high screams above the melody: long, controlled, abrasive and nearly inhuman, Verses stay fast, tense and melodically active, with punchy rapid phrasing, rising vocal lines and guitar responses, Monumental heroic singalong chorus; short raw single-lead guitar solo with bluesy bends, wide vibrato and melodic phrasing, no shredding, Only the theatrical bridge slows, then return at full force with a shouted march, double-time final chorus and fading outro gang vocals, Sung completely straight: sacred, sincere and absurdly heroic, Raw vintage production; traditional NWOBHM
+```
+
+### Styles to avoid
+
+```text
+metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic metal, modern European power metal, speed metal, neoclassical metal, shred guitar, sweep picking, rapid arpeggios, video-game-like melodies, synths, keyboards, polished modern production, comedy vocals
+```
+
+### Утверждённый текст
 
 ```text
 [Verse 1 — aggressive staccato gallop, hard accents]
@@ -393,9 +361,23 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 
 ---
 
-# Черновик текста третьей песни
+## III. «Тайна Дара Глубин»
 
-## «Тайна Дара Глубин»
+**Статус:** второй черновик текста и промта приведён в соответствие с новой драматургией.
+
+### Промт для Suno
+
+```text
+Russian-language early-1990s traditional heavy metal mystical epic, ~100 BPM in firm 4/4. Brief clean-guitar opening, then a weighty mid-tempo riff, melodic bass, natural roomy drums and restrained twin-guitar harmonies. High rough-edged clean tenor, solemn and prophetic; verses use active rising and falling melodies, measured pauses and wide upward leaps, never spoken or crooned. First chorus arrives early as a dark monumental hook. The creation of the Gift sounds triumphant, then distant rushing water and heavier later choruses introduce the price of victory. Lyrical guitar solo leads into a sparse revelation bridge, then a full-band stop and two explosive high vocal declarations. Final chorus is broad, tragic and resolute. Warm early-1990s analog production, strong midrange and human timing; no synths, modern power-metal gloss, extreme vocals, comedy phrasing or chanson.
+```
+
+### Styles to avoid
+
+```text
+chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental ballad, soft rock, pop rock, spoken word, monotone recitative, crooning, melismatic vocals, excessive vibrato, droning vocals, waltz, 6/8 ballad, symphonic metal, modern power metal, speed metal, thrash metal, metalcore, deathcore, growls, guttural vocals, low baritone lead, neoclassical metal, shred guitar, sweep picking, rapid arpeggios, synths, keyboards, orchestral pads, polished modern production, comedy vocals
+```
+
+### Черновик текста
 
 ```text
 [Intro — brief clean-guitar invocation, low bass drone, no drums; quickly building]
@@ -403,14 +385,14 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 [Verse 1 — restrained but active high-tenor melody; clean guitar growing into a heavy mid-tempo riff]
 На ка́менном скло́не у чёрных воро́т
 Пред би́твой Вали́тель заме́длил свой ход.
-Безмо́лвно лежа́л перед ним Да́р Глуби́н,
-И сам ход времён был наве́к с ним еди́н.
-Над Да́ром не сия́ли ни со́лнце, ни гром,
-Но ве́чность дыша́ла в молча́нии том.
+Он ё́ршик склони́л и взошёл на престо́л,
+И ро́кот по жи́лам вселе́нной прошёл.
+Из пло́ти и ду́ха, из жа́ра глуби́н
+Он Да́р сотвори́л — и оста́лся оди́н.
 
 [Pre-Chorus — drums enter and tension rises; ascending twin guitars, vocal line climbing]
-Он ёршик склони́л перед Та́йной немо́й:
-«Кто но́сит кого́? Кто шага́ет за мной?»
+Он встал над творе́ньем в немо́й тишине́:
+«Кому́ суждено́ пережи́ть — Да́ру иль мне?»
 
 [Lead Vocal — piercing sustained high-metal cry]
 ОТВЕ́ТЬ!
@@ -418,94 +400,123 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 [Chorus — early dark monumental payoff, massive downbeats, broad melodic hook, sustained high peaks]
 Та́йна Да́ра Глуби́н!
 Безмо́лвный кори́чневый свет!
-Кто но́сит кого́ в э́том ми́ре?
-Где скры́т сокрове́нный отве́т?
+Творе́ние пло́ти и во́ли,
+Свяще́нный для ми́ра заве́т!
 Та́йна Да́ра Глуби́н!
-Где ко́нчится плоть, где начнётся дух?
-За гра́нью истле́ния — ве́чность,
-И дух его ве́чен и жгуч!
+Где ко́нчится плоть, там останется дух!
+За гра́нью мгнове́ния — ве́чность,
+И зов её ве́чен и жгуч!
 
-[Verse 2 — heavier mid-tempo riff, narrative high tenor, active questioning melody]
-Где ко́нчится Да́р — там ли ве́чность встаёт?
-Где ве́чность конча́ется — Да́р ли живёт?
-И е́сли сей плод низверга́ется в тьму́,
-Не я́влен ни но́су, ни се́рдцу, ни уму́,
-Сверши́лось ли та́инство в бе́здне глухо́й?
-Иль ждёт оно сви́детеля над глубино́й?
+[Verse 2 — heavier mid-tempo riff, narrative high tenor, approaching water audible beneath the band]
+Из бе́здны отве́тил не го́лос, а гром,
+И тре́щины вспы́хнули в не́бе круго́м.
+За Да́ром встава́л неотсту́пный пото́к:
+И Слив пробуди́лся у са́мых ног.
+Кто путь отвори́л из Затво́ра во свет,
+Тот жи́знью свое́й сохрани́т сей заве́т.
 
 [Pre-Chorus — rising tension, heavier drums, ascending twin guitars]
 Молча́ли все звёзды, молча́л небосво́д,
-Но Да́р из глуби́н его зва́л вперёд.
+Но Слив из глуби́н уже рва́лся вперёд.
 
 [Chorus — heavier than before, dark declarative refrain, soaring high vocal variations]
 Та́йна Да́ра Глуби́н!
 Безмо́лвный кори́чневый свет!
-Кто но́сит кого́ в э́том ми́ре?
-Где скры́т сокрове́нный отве́т?
+Творе́ние пло́ти и во́ли,
+Свяще́нный для ми́ра заве́т!
 Та́йна Да́ра Глуби́н!
-Где ко́нчится плоть, где начнётся дух?
-За гра́нью истле́ния — ве́чность,
-И дух его ве́чен и жгуч!
+Где ко́нчится плоть, там останется дух!
+За гра́нью мгнове́ния — ве́чность,
+И зов её ве́чен и жгуч!
 
 [Guitar Solo — lyrical melodic lead, expressive bends, wide vibrato, brief twin-guitar harmony, no shredding]
 
 [Bridge — slow, sparse and mystical; clean guitar under restrained dramatic high tenor, gradual full-band swell]
 Он ла́донь возло́жил на тёплую твердь —
-И дро́гнули звёзды, отпря́нула смерть.
+И дро́гнули звёзды, прибли́зилась смерть.
 Распа́лись грани́цы вещей и имён,
-И ро́котом бе́здны был мир потрясён.
+И гу́лом гряду́щего мир потрясён.
 
 [Revelation — accelerating build, vocal intensity rising line by line]
-Я ду́мал: сей дар — моя си́ла и меч,
-Я ду́мал: лишь я его мо́г убере́чь.
-Но и́стина вы́шла из дре́внего сна:
-Не я́ владе́ю Да́ром — Да́р владе́ет мной!
+Я Да́р сотвори́л не для сла́вы свое́й,
+Не да́м ему сги́нуть во мра́ке море́й.
+Пусть во́ды подни́мутся вы́ше огня́ —
+Он вы́йдет на во́лю и переживёт меня́!
 
 [Full band stop — complete silence]
 [Lead Vocal — explosive sustained ultra-high declaration]
-Я НЕ ВЛАДЕ́Ю ГОВНО́М!
+Я ДАР СОТВОРИ́Л — И ОТДА́Л ЕГО́ МИ́РУ!
 
 [Full band crash — massive chord and cymbal hit]
 [Lead Vocal — even higher sustained climactic declaration]
-Я ПРИНАДЛЕЖУ́ ЕМУ́!
+ОН БУ́ДЕТ ЖИ́ТЬ ПО́СЛЕ МЕНЯ́!
 
 [Final Chorus — heaviest arrangement, twin-guitar counterlines, highest soaring vocal variations]
 Та́йна Да́ра Глуби́н!
 Тепе́рь мне откры́лся отве́т:
-Не я́ твой хозя́ин отны́не —
-Ты мно́ю сверша́ешь свой заве́т!
+Я со́здал тебя́ не для сме́рти —
+Ты ми́ру даро́ванный свет!
 Та́йна Да́ра Глуби́н!
-С тобо́ю наве́ки еди́н!
+Пуска́й на́ши су́дьбы еди́ны,
+Но ты переживёшь меня́!
 
 [Outro — clean guitar returns; distant gang vocals under a final solemn high-tenor line]
-Не я́ владе́ю Да́ром…
-Да́р владе́ет мной…
+Я Да́р сотвори́л…
+И отда́л его́ ми́ру…
 
 [Lead Vocal — sustained final high note]
-Я ПРИНАДЛЕЖУ́ ЕМУ́!
+ОН БУ́ДЕТ ЖИ́ТЬ ПО́СЛЕ МЕНЯ́!
 ```
+
+---
+
+## IV. «Слив»
+
+**Статус:** текст и промт не написаны. Песня завершается кодой «Эпоха Говна».
+
+### Промт для Suno
+
+Не написан.
+
+### Текст
+
+Не написан.
+
+---
+
+# Общие музыкальные правила
+
+- Сохранить единый голос Калового Валителя во всех четырёх песнях.
+- Использовать высокий, надрывный, театральный мужской вокал.
+- Вокал должен быть максимально эмоциональным и пафосным, доходя до абсурда: драматические вскрики, долгие верхние ноты, героический надрыв и пророческая декламация.
+- При всей гиперболе вокальная и музыкальная подача не должна сильно выходить за рамки традиционного NWOBHM и превращаться в современный экстремальный металл или пародийный мюзикл.
+- Главные припевы должны быть простыми, монументальными и пригодными для хорового скандирования.
+- Гитарные гармонии и галопирующий бас связывают номера в единое произведение.
+- В финале вернуть музыкальные мотивы предыдущих песен. После гибели Валителя его вокал больше не звучит: тема героя продолжается инструментально и в хоре, а место ожидаемого сольного вступления остаётся пустым.
+- Не использовать metalcore, синтезаторы и современную полированную продукцию.
+- Промт для поля Style в Suno не должен превышать 1000 символов; держать его компактным и проверять длину перед генерацией.
 
 ---
 
 # План дальнейшей работы
 
-1. Доработать и утвердить текст песни III; написать тексты песен IV и V.
+1. Доработать и утвердить текст песни III; написать текст песни IV с финальной кодой «Эпоха Говна».
 2. Проверить ритм, ударения, рифмы и пригодность новых текстов для генерации в Suno.
-3. Создать отдельный Suno-промт для каждой песни, сохранив единый голос и винтажную NWOBHM-эстетику.
+3. Создать Suno-промт для песни IV, сохранив единый голос и винтажную NWOBHM-эстетику.
 4. Провести несколько генераций каждой песни и по результатам точечно отредактировать тексты и разметку секций.
-5. Вернуть лейтмотивы ранних песен в финале «Эпоха Говна».
+5. Вернуть лейтмотивы ранних песен в финальной коде «Эпоха Говна»; после гибели Валителя оставить его тему без сольного вокала.
 
 ## Текущий статус
 
 - Концепция: утверждена.
 - Главный персонаж: утверждён.
-- Структура из пяти песен: утверждена.
+- Структура из четырёх песен: утверждена.
 - Либретто: готово.
 - Текст первой песни «В начале было Оно»: утверждён.
 - Текст второй песни «Каловый Валитель идёт»: утверждён.
-- Текст третьей песни «Тайна Дара Глубин»: первый черновик готов.
-- Остальные тексты песен (IV, V): не написаны.
+- Текст третьей песни «Тайна Дара Глубин»: второй черновик приведён в соответствие с новой концепцией.
+- Текст четвёртой песни «Слив» с кодой «Эпоха Говна»: не написан.
 - Промт для первой песни «В начале было Оно»: готов.
 - Промт для второй песни «Каловый Валитель идёт»: готов.
-- Промт для третьей песни «Тайна Дара Глубин»: первый черновик готов.
-- Промты для остальных песен (IV, V): не написаны.
+- Промт для третьей песни «Тайна Дара Глубин»: второй черновик приведён в соответствие с новой драматургией.
+- Промт для четвёртой песни «Слив»: не написан.

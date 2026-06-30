@@ -457,7 +457,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 В него́ дух заключи́л
 Ра́ди бу́дущих дней.
 Пусть во́ды встаю́т
-Вы́ше не́ба и огня́ —
+Вы́ше тле́на бытия́ —
 Его́ не сметёт и струя́ —
 НИХУЯ
 

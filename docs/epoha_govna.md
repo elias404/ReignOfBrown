@@ -388,14 +388,14 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Заме́длил свой ход.
 
 [Soaring extremely high powerful metal tenor, dominant above all]
-Ты ё́ршик вознёс в высоту́,
-Взошёл на престо́л в тишине́,
-Прорва́в ночну́ю черту́,
-Ты пла́мя зажёг в глубине́.
+Ты ё́ршик вознёс к облака́м,
+На трон ми́ра ты взошёл,
+Дал во́лю огню́ и века́м,
+И в не́драх руду́ ты нашёл.
 Руда́ ожила́, горя́,
-До чёрного жа́ра дошла́,
-Ты вы́ковал Да́р, не тая́,
-И в нём твоя́ во́ля взошла́!
+Её́ ты в огне́ закали́л,
+Свой Да́р из неё́ творя́,
+В него́ ты свой дух вложи́л!
 
 [Verse 2 — two clean male stanzas over galloping bass and a harmonized twin-guitar riff]
 [bright clean high male voice]

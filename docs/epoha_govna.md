@@ -416,10 +416,10 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Но в миг свое́й сла́вы
 Ты услы́шал из тьмы́:
 [descending dive-bomb guitar, air-raid wail]
-Слив ри́нулся вниз для распра́вы,
+Слив гря́нул для лю́той распра́вы
 С разве́рстой небе́сной плиты́,
-Грозя́ поглоти́ть
-И Да́р загуби́ть!
+Грозя́ поглоти́ть на́ш ого́нь
+И в бе́здну низве́ргнуть мечты́!
 
 [Chorus — broad anthemic hook; soaring high lead over big male gang vocals]
 [lead] Да́р Глуби́н!

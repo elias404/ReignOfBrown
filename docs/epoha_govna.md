@@ -469,7 +469,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 
 [gang vocals, rising chant] Да́р! Да́р! Да́р!
 [Full band stop — total silence, long dramatic pause]
-[the highest, longest, most piercing ultra-high scream of the entire song; the absolute culmination]
+[solo lead vocal ONLY — one single male voice, no choir, no gang vocals, no harmony, no doubling — the highest, longest, most piercing ultra-high scream of the entire song; the absolute culmination]
 НИХУЯ-А-А-А-А-А!
 
 [Instrumental break — harmonized twin-guitar reprise of the main theme, the storm subsiding into a slow, solemn passage]

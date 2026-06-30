@@ -385,7 +385,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 [INTRO]
 [clean high male voice]
 На ка́менном скло́не —
-У белых воро́т —
+У бе́лых воро́т —
 Пред би́твой Вали́тель
 Заме́длил свой ход.
 
@@ -394,14 +394,14 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Под мерца́нием звёзд.
 На престо́л взошёл —
 В не́драх пла́мень расцвёл.
-В тебе ожива́ла руда́,
-Раскаля́лась она́ дочерна.
+В тебе́ ожива́ла руда́,
+Раскаля́лась она́ дочерна́.
 Ты Да́р сотвори́л!
 И него́ ты дух свой вложи́л!
 
 [Verse 2 — two clean male stanzas over galloping bass and a harmonized twin-guitar riff]
 [bright clean high male voice]
-Из бе́здны раздался
+Из бе́здны разда́лся
 Не го́лос, а гром.
 Над ми́ром откры́лся
 Небе́сный проло́м.
@@ -418,8 +418,8 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 
 [Pre-Chorus — one continuous high male lead, drums and twin guitars rising]
 [Voice of Sky — same bright clean high male voice]
-Умолкли все звёзды,
-Молчала вся ночь.
+Умо́лкли все звёзды,
+Молча́ла вся ночь.
 Но страх свой пред Сли́вом
 Ты смог превозмо́чь!
 
@@ -427,7 +427,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 [Choir — big male gang vocals]
 Да́р Глуби́н!
 Кори́чневый свет!
-Из духа и во́ли —
+Из ду́ха и во́ли —
 Свяще́нный заве́т!
 
 [Valitel and Choir — soaring ultra-high male lead over big male gang vocals]
@@ -440,7 +440,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 
 [Slow Heavy Bridge — only 8–12 seconds, weighty toms, sustained power chords, clipped urgent male voices, then a forceful return to the main gallop]
 [Voice of Stone — same firm clean male voice, tense mid register]
-Ты вста́л между Да́ром
+Ты вста́л ме́жду Да́ром
 И я́ростью вод.
 
 [Tense clean male voice]
@@ -468,7 +468,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 И ОТДА́Л ЕГО́ МИ́РУ!
 
 [Full band crash — massive chord and cymbal hit]
-И ДУХ ЕГО С НАМИ!
+И ДУХ ЕГО́ С НА́МИ!
 
 [Final Chorus — one continuous lead at maximum intensity over the full gallop; male Choir doubles only the final hook]
 [continuous ultra-high piercing metal tenor, Beast in Black style]
@@ -477,7 +477,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 О ми́ру даро́ванный свет!
 Да́р Глуби́н!
 Твой путь обрыва́ется здесь —
-НО ДАР БУДЕТ С НАМИ!
+НО ДАР БУ́ДЕТ С НА́МИ!
 
 ```
 

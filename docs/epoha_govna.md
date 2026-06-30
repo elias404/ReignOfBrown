@@ -171,6 +171,18 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, Russian folk ball
 - Голос обязан совпадать с песней «Каловый Валитель идёт»: высокий, яркий, надрывный мужской тенор. При расхождении тембра перегенерировать или дотянуть через продолжение того же сида.
 - Финальный припев остаётся в том же темпе, но становится плотнее и выше по вокалу. Выбирать дубль с ясным контрастом интро и основного риффа, активной мелодией куплетов и разборчивым припевом.
 
+## Промт для песни «Тайна Великой Кучи»
+
+```text
+Russian-language early-1990s traditional heavy metal mystical epic, ~100 BPM in firm 4/4. Brief clean-guitar opening, then a weighty mid-tempo riff, melodic bass, natural roomy drums and restrained twin-guitar harmonies. High rough-edged clean tenor, solemn and questioning; verses use active rising and falling melodies, measured pauses and wide upward leaps, never spoken or crooned. First chorus arrives early as a dark monumental hook. Each philosophical question increases tension; later choruses grow heavier. Lyrical guitar solo leads into a sparse revelation bridge, then a full-band stop and two explosive high vocal declarations. Final chorus is broad, transcendent and climactic. Warm early-1990s analog production, strong midrange and human timing; no synths, modern power-metal gloss, extreme vocals, comedy phrasing or chanson.
+```
+
+### Styles to avoid
+
+```text
+chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental ballad, soft rock, pop rock, spoken word, monotone recitative, crooning, melismatic vocals, excessive vibrato, droning vocals, waltz, 6/8 ballad, symphonic metal, modern power metal, speed metal, thrash metal, metalcore, deathcore, growls, guttural vocals, low baritone lead, neoclassical metal, shred guitar, sweep picking, rapid arpeggios, synths, keyboards, orchestral pads, polished modern production, comedy vocals
+```
+
 ## Общие музыкальные правила
 
 - Сохранить единый голос Калового Валителя во всех пяти песнях.
@@ -381,9 +393,105 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, Russian folk ball
 
 ---
 
+# Черновик текста третьей песни
+
+## «Тайна Великой Кучи»
+
+```text
+[Intro — brief clean-guitar invocation, low bass drone, no drums; quickly building]
+
+[Verse 1 — restrained but active high-tenor melody; clean guitar growing into a heavy mid-tempo riff]
+На ка́менном скло́не у чёрных воро́т
+Пред би́твой Вали́тель заме́длил свой ход.
+Безмо́лвно лежа́ла Вели́кая Ку́ча,
+Темне́я, как зна́менье, грозно-могу́ча.
+Над не́й не сия́ли ни со́лнце, ни гром,
+Но ве́чность дыша́ла в молча́нии том.
+
+[Pre-Chorus — drums enter and tension rises; ascending twin guitars, vocal line climbing]
+Он ёршик склони́л перед Та́йной немо́й:
+«Кто но́сит кого́? Кто шага́ет за мной?»
+
+[Lead Vocal — piercing sustained high-metal cry]
+ОТВЕ́ТЬ!
+
+[Chorus — early dark monumental payoff, massive downbeats, broad melodic hook, sustained high peaks]
+Та́йна Вели́кой Ку́чи!
+Безмо́лвный кори́чневый свет!
+Кто но́сит кого́ в э́том ми́ре?
+Где скры́т сокрове́нный отве́т?
+Та́йна Вели́кой Ку́чи!
+Где ко́нчится плоть, где начнётся дух?
+За гра́нью истле́ния — ве́чность,
+И дух её ве́чен и жгуч!
+
+[Verse 2 — heavier mid-tempo riff, narrative high tenor, active questioning melody]
+Где Ку́ча конча́ется — ве́чность встаёт?
+Где ве́чность конча́ется — Ку́ча живёт?
+И е́сли сей плод низверга́ется в тьму́,
+Не я́влен ни но́су, ни се́рдцу, ни уму́,
+Сверши́лось ли та́инство в бе́здне глухо́й?
+Иль ждёт оно сви́детеля над глубино́й?
+
+[Pre-Chorus — rising tension, heavier drums, ascending twin guitars]
+Молча́ли все звёзды, молча́л небосво́д,
+Но Ку́ча дыша́ла и зва́ла вперёд.
+
+[Chorus — heavier than before, dark declarative refrain, soaring high vocal variations]
+Та́йна Вели́кой Ку́чи!
+Безмо́лвный кори́чневый свет!
+Кто но́сит кого́ в э́том ми́ре?
+Где скры́т сокрове́нный отве́т?
+Та́йна Вели́кой Ку́чи!
+Где ко́нчится плоть, где начнётся дух?
+За гра́нью истле́ния — ве́чность,
+И дух её ве́чен и жгуч!
+
+[Guitar Solo — lyrical melodic lead, expressive bends, wide vibrato, brief twin-guitar harmony, no shredding]
+
+[Bridge — slow, sparse and mystical; clean guitar under restrained dramatic high tenor, gradual full-band swell]
+Он ла́донь возло́жил на тёплую твердь —
+И дро́гнули звёзды, отпря́нула смерть.
+Распа́лись грани́цы вещей и имён,
+И ро́котом бе́здны был мир потрясён.
+
+[Revelation — accelerating build, vocal intensity rising line by line]
+Я ду́мал: сей дар — моя си́ла и меч,
+Я ду́мал: лишь я его мо́г убере́чь.
+Но и́стина вы́шла из дре́внего сна:
+Не я́ несу́ Ку́чу — несёт меня́ она́!
+
+[Full band stop — complete silence]
+[Lead Vocal — explosive sustained ultra-high declaration]
+Я НЕ ВЛАДЕ́Ю ГОВНО́М!
+
+[Full band crash — massive chord and cymbal hit]
+[Lead Vocal — even higher sustained climactic declaration]
+Я ПРИНАДЛЕЖУ́ ЕМУ́!
+
+[Final Chorus — heaviest arrangement, twin-guitar counterlines, highest soaring vocal variations]
+Та́йна Вели́кой Ку́чи!
+Тепе́рь мне откры́лся отве́т:
+Не я́ тебя нёс через ве́чность —
+Ты мно́ю вершила свой заве́т!
+Та́йна Вели́кой Ку́чи!
+Я ча́сть твоих дре́вних глуби́н!
+Ты но́сишь геро́я сквозь ве́чность —
+И я́ с э́той ве́чностью еди́н!
+
+[Outro — clean guitar returns; distant gang vocals under a final solemn high-tenor line]
+Не я́ несу́ Ку́чу…
+Она́ несёт меня́…
+
+[Lead Vocal — sustained final high note]
+Я ПРИНАДЛЕЖУ́ ЕМУ́!
+```
+
+---
+
 # План дальнейшей работы
 
-1. Написать тексты песен III, IV и V.
+1. Доработать и утвердить текст песни III; написать тексты песен IV и V.
 2. Проверить ритм, ударения, рифмы и пригодность новых текстов для генерации в Suno.
 3. Создать отдельный Suno-промт для каждой песни, сохранив единый голос и винтажную NWOBHM-эстетику.
 4. Провести несколько генераций каждой песни и по результатам точечно отредактировать тексты и разметку секций.
@@ -397,7 +505,9 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, Russian folk ball
 - Либретто: готово.
 - Текст первой песни «В начале было Оно»: утверждён.
 - Текст второй песни «Каловый Валитель идёт»: утверждён.
-- Остальные тексты песен (III, IV, V): не написаны.
+- Текст третьей песни «Тайна Великой Кучи»: первый черновик готов.
+- Остальные тексты песен (IV, V): не написаны.
 - Промт для первой песни «В начале было Оно»: готов.
 - Промт для второй песни «Каловый Валитель идёт»: готов.
-- Промты для остальных песен (III, IV, V): не написаны.
+- Промт для третьей песни «Тайна Великой Кучи»: первый черновик готов.
+- Промты для остальных песен (IV, V): не написаны.

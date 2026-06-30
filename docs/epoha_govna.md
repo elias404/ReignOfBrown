@@ -463,12 +463,12 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Ра́ди бу́дущих дней.
 Пусть во́ды встаю́т
 Вы́ше не́ба и огня́ —
-Его́ не смету́т —
+Его́ не сметёт и струя́ —
 
 [Full stop — total silence, long dramatic pause, all instruments cut]
 
 [Lead vocal alone in the silence — the highest, longest, most piercing ultra-high scream of the entire song; the absolute culmination]
-НИХУЯ-Я-Я-Я-Я!
+НИХУЯ-А-А-А-А-А!
 
 [Instrumental break — full band crashes back in at full force, harmonized twin-guitar lead over the pounding gallop, building straight into the declaration]
 

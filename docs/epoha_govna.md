@@ -382,8 +382,9 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 
 ```text
 
-[INTRO]
-[clean high male voice]
+[Intro]
+
+[Verse 1 — clean high male voice]
 На ка́менном скло́не —
 У бе́лых воро́т —
 Пред би́твой Вали́тель
@@ -447,7 +448,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 И гро́хот над ми́ром
 Предве́стил исхо́д.
 
-[Revelation — forceful return to the main gallop, soaring into the extreme upper register]
+[Verse 3 — forceful return to the main gallop, soaring into the extreme upper register]
 [extremely high powerful tenor]
 Ты Да́р сотвори́л
 Не для сла́вы свое́й.
@@ -457,10 +458,10 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Вы́ше не́ба и огня́ —
 Его́ не смету́т
 [Brief pause, all music stops]
-[climactic sustained ultra-high long metal scream,  song culmination]
+[climactic sustained ultra-high long metal scream, song culmination]
 ИИХУЯ
 
-[Declaration Sequence — main vocal remains the lead throughout; full-band stops divide the lines, male Choir only doubles the middle declaration]
+[Breakdown — main vocal stays lead; full-band stops divide the lines, male Choir doubles the middle declaration]
 [three rising ultra-high declarations, glass-cutting belt]
 Ты ДАР СОТВОРИ́Л!
 

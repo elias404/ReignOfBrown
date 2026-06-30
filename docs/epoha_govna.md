@@ -390,7 +390,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 [soaring extremely high powerful metal tenor, dominant above all]
 Ты ё́ршик вознёс к облака́м,
 На трон мирозда́нья взошёл,
-Дал во́лю огню́ и века́м,
+Ты бро́сил свой вы́зов бога́м,
 И в не́драх руду́ ты нашёл.
 Руда́ забурли́ла, горя́,
 В горни́ле её́ ты кали́л,

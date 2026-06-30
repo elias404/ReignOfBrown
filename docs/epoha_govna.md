@@ -397,6 +397,20 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Свой Да́р из неё́ творя́,
 В него́ ты свой дух вложи́л!
 
+[Chorus — broad anthemic hook; soaring high lead over big male gang vocals]
+[gang vocals]
+Да́р Глуби́н! Да́р Глуби́н!
+[lead]
+Кто Да́р сотвори́л
+И нёс его́ в свет,
+Тот ду́хом скрепи́л
+Свой свяще́нный заве́т!
+Молча́ла вся ночь,
+Но страх свой пред Сли́вом
+Ты смог превозмо́чь!
+[gang vocals]
+Да́р Глуби́н! Да́р Глуби́н!
+
 [Verse 2 — driving gallop, tense]
 Но в моме́нт свое́й сла́вы
 Ты услы́шал из тьмы́:

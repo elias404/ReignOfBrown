@@ -364,26 +364,26 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 
 ## III. «Тайна Дара Глубин»
 
-**Статус:** третий черновик текста настроен на напористый театральный power-heavy metal около 198 BPM, несколько голосов Стихий и короткий напряжённый half-time эпизод.
+**Статус:** третий черновик текста настроен на агрессивный power-heavy metal около 205 BPM, несколько голосов Стихий и предельно короткий сокрушительный half-time удар.
 
 ### Промт для Suno
 
 ```text
-Russian-language theatrical power-heavy metal assault, ~198 BPM in A minor, relentless double-time. Immediate full-band attack: fast palm-muted galloping riffs, cutting twin guitars, deep melodic bass, hard double-kick drums; keyboards only faint support. Several clean character voices trade very short lines: dominant soaring male tenor, urgent female responses, fierce mixed choir. Vocals are angry and emotionally overheated, with rising phrases, wide leaps and piercing sustained peaks; never restrained or mournful. Compact verses rush into a huge call-and-response chorus with shouted hooks. Keep momentum nearly continuous. At midpoint use only a 12–15 second half-time tension break with pounding toms and distorted guitar, then explode back harder. Add fast melodic dual-guitar solo, dramatic stops, double-time final chorus and last high scream. Bright punchy production, forward guitars, aggressive drums. Desperate heroic triumph; grief expressed as fury, never melancholy.
+Russian-language aggressive power-heavy metal / metal-opera assault, ~205 BPM in A minor. Immediate full-band detonation, no intro: relentless downpicked palm-muted riffs, sharp syncopated accents, cutting twin guitars, dominant bass, nonstop double-kick and cracking snare. Several clean character voices exchange clipped phrases, led by a high male tenor with a rough metallic edge; urgent female interjections and hostile gang choir. Vocals are confrontational, furious and near-breaking, with hard consonants, rapid rising lines, wide leaps and sustained screams. Verses never relax and slam into a huge shouted call-and-response chorus. No atmospheric pauses. Midpoint: only a 6–8 second crushing half-time hit with toms and choked guitar, then immediate double-time return. Fast harmonized solo, abrupt stops, repeated final chorus at maximum speed, last glass-cutting scream. Dry punchy production, guitars and drums forward. Tragedy as rage and defiance; no melancholy or sweetness.
 ```
 
 ### Styles to avoid
 
 ```text
-Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning, low baritone lead, sentimental ballad, melancholy, mournful delivery, slow tempo, midtempo, atmospheric intro, long breakdown, waltz, dance beat, soft rock, pop rock, doom metal, metalcore, growls, guttural vocals, extreme metal, comedy vocals, synth-dominant symphonic metal, glossy modern pop production
+Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning, low baritone lead, sentimental ballad, melancholy, mournful delivery, soft dynamics, slow tempo, midtempo, atmospheric intro, clean-guitar break, long breakdown, waltz, dance beat, pop rock, cheerful power metal, uplifting fantasy metal, doom metal, metalcore, growls, guttural vocals, extreme metal, comedy vocals, synth-dominant symphonic metal, glossy pop production
 ```
 
 ### Черновик текста
 
 ```text
-[Intro — immediate full-band entrance; heavy palm-muted riff, deep melodic bass, double-kick drums, subtle keyboards]
+[Intro — immediate full-band detonation, no buildup; downpicked palm-muted riff, nonstop double-kick, cracking snare]
 
-[Verse 1 — fast alternating clean voices, short phrases, forceful full-band answers]
+[Verse 1 — clipped alternating clean voices, no rests, hostile full-band answers]
 [Voice of Stone — firm clean male voice]
 На ка́менном скло́не —
 У чёрных воро́т —
@@ -448,7 +448,7 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 [Choir]
 И зов его́ ве́чен и жгуч!
 
-[Verse 2 — fast palm-muted riff, alternating clean voices, urgent choir punctuations]
+[Verse 2 — relentless downpicked riff, clipped clean voices, hostile choir punctuations]
 [Voice of Sky]
 Из бе́здны отве́тил
 Не го́лос, а гром.
@@ -509,9 +509,9 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 [Choir]
 И зов его́ ве́чен и жгуч!
 
-[Guitar Solo — fast melodic twin-guitar leads over the full rhythm section]
+[Guitar Solo — fast harmonized twin-guitar leads over nonstop double-kick]
 
-[Half-Time Tension Break — only 12–15 seconds, pounding toms and distorted guitar, clipped urgent voices, no melancholy]
+[Half-Time Hit — only 6–8 seconds, crushing toms and choked distorted guitar, clipped urgent voices, immediate double-time return]
 [Voice of Stone — low clean voice]
 Он ла́донь возло́жил
 На тёплую твердь.
@@ -528,7 +528,7 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 И гро́хотом Сли́ва
 Был мир потрясён.
 
-[Revelation — rapid explosive full-band rebuild, accelerating drums, Valitel rising in pitch and intensity]
+[Revelation — immediate double-time detonation, nonstop drums, Valitel rising in pitch and fury]
 [Valitel]
 Я Да́р сотвори́л
 Не для сла́вы свое́й.
@@ -550,7 +550,7 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 [Valitel — highest sustained vocal peak]
 ОН БУ́ДЕТ ЖИ́ТЬ ПО́СЛЕ МЕНЯ́!
 
-[Final Chorus — maximum intensity, all voices, twin-guitar counterlines]
+[Final Chorus — repeated at maximum speed, all voices, hostile gang choir, twin-guitar counterlines]
 [Choir]
 Та́йна Да́ра Глуби́н!
 
@@ -575,7 +575,7 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 [Valitel and Choir — broad final hook]
 Но ты переживёшь меня́!
 
-[Outro — furious full-band metal-opera coda, layered voices, grief expressed as rage, no fade]
+[Outro — maximum-speed full-band coda, hostile layered voices, final glass-cutting scream, no fade]
 [Voice of Stone]
 Он Да́р сотвори́л…
 
@@ -639,5 +639,5 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 - Текст четвёртой песни «Слив» с кодой «Эпоха Говна»: не написан.
 - Промт для первой песни «В начале было Оно»: готов.
 - Промт для второй песни «Каловый Валитель идёт»: готов.
-- Промт для третьей песни «Тайна Дара Глубин»: напористая версия на 198 BPM с несколькими чистыми голосами, хоровыми ответами, коротким half-time эпизодом и яростным финалом.
+- Промт для третьей песни «Тайна Дара Глубин»: агрессивная версия на 205 BPM с несколькими чистыми голосами, враждебными хоровыми ответами, 6–8-секундным half-time ударом и финалом на максимальной скорости.
 - Промт для четвёртой песни «Слив»: не написан.

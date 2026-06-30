@@ -441,10 +441,10 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 
 [Pre-Chorus — one continuous high male lead, drums and twin guitars rising]
 [Voice of Sky — same bright clean high male voice]
-Молча́ли все звёзды.
-Молча́л небосво́д.
-Но страх перед Сли́вом
-Он смог превозмо́чь!
+Молча́ли все звёзды,
+Молча́л небоскло́н.
+Но стра́ха пред Сли́вом
+Не ве́дал уж он!
 
 [Chorus — broad anthemic shout-along hook, darker and heavier arrangement]
 [Choir — big male gang vocals]

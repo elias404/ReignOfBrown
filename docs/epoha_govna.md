@@ -369,7 +369,7 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 ### Промт для Suno
 
 ```text
-Russian-language classic 1980s-style heavy metal anthem, ~200 BPM in E minor, extremely high male lead vocal. Lead is an extremely high, powerful, piercing tenor with huge range, soaring sustained upper notes, fierce head register and glass-cutting high screams. Supporting male voices and a big male gang choir on the hooks. Heroic, defiant, tragic grandeur; no synths, no modern polish.
+New Wave of British Heavy Metal (NWOBHM), ~200 BPM, extremely high male lead vocal. Lead is an extremely high, powerful, piercing tenor with huge range, soaring sustained upper notes, fierce head register and glass-cutting high screams. Supporting male voices and a big male gang choir on the hooks. Heroic, defiant, tragic grandeur; no synths, no modern polish.
 ```
 
 ### Styles to avoid
@@ -382,8 +382,8 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 
 ```text
 [Verse 1 — clean high male voice]
-На ка́менном скло́не —
-У бе́лых воро́т —
+Над тёмной пучи́ной,
+Где Сли́ва оплот,
 Пред би́твой Вали́тель
 Заме́длил свой ход.
 
@@ -464,10 +464,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Пусть во́ды встаю́т
 Вы́ше не́ба и огня́ —
 Его́ не сметёт и струя́ —
-
-[Full stop — total silence, long dramatic pause, all instruments cut]
-
-[Lead vocal alone in the silence — the highest, longest, most piercing ultra-high scream of the entire song; the absolute culmination]
+[The highest, longest, most piercing ultra-high scream of the entire song; the absolute culmination]
 НИХУЯ-А-А-А-А-А!
 
 [Instrumental break — full band crashes back in at full force, harmonized twin-guitar lead over the pounding gallop, building straight into the declaration]

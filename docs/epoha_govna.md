@@ -468,7 +468,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 [Full stop — total silence, long dramatic pause, all instruments cut]
 
 [Lead vocal alone in the silence — the highest, longest, most piercing ultra-high scream of the entire song; the absolute culmination]
-НИ-И-И-ХУ-У-У-У-Я-Я-Я-Я-Я!
+НИХУЯ-Я-Я-Я-Я!
 
 [Instrumental break — full band crashes back in at full force, harmonized twin-guitar lead over the pounding gallop, building straight into the declaration]
 
@@ -487,13 +487,16 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Да́р Глуби́н!
 Ты вы́ковал Да́р, как заве́т, —
 Ты ми́ру даро́ванный свет!
+Сия́ет он ты́сячи лет!
 Да́р Глуби́н!
-Ты ги́бнешь под чёрными волна́ми —
+Ты ги́бнешь под чёрными волна́ми,
+Но Да́р пронесётся века́ми —
 НО ДАР БУ́ДЕТ С НА́МИ!
 
 [Outro — broad full-band coda, layered male gang vocals, no fade]
 Да́р Глуби́н!
 Да́р Глуби́н!
+Он пра́вит века́ми —
 ОН ВЕ́ЧНО С НА́МИ!
 
 ```

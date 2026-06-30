@@ -403,20 +403,17 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 [lead] Да́р Глуби́н!
 [gang] (Глуби́н!)
 [lead]
-Кто Да́р сотвори́л
-И нёс его́ в свет,
-Тот ду́хом скрепи́л
-Свой свяще́нный заве́т!
-Засты́ла вся ночь,
-Но страх свой пред Сли́вом
-Ты смог превозмо́чь!
+Оди́н ты, геро́й,
+Меж Да́ром и тьмой.
+Ты сги́нешь во мгле́ —
+Но Да́р оста́нется на земле́!
 [lead] Да́р Глуби́н!
 [gang] (Глуби́н!)
 [lead] Да́р Глуби́н!
 [gang] (Глуби́н!)
 
 [Verse 2 — driving gallop, tense]
-Но в моме́нт свое́й сла́вы
+Но в миг свое́й сла́вы
 Ты услы́шал из тьмы́:
 [descending dive-bomb guitar, air-raid wail]
 Слив ри́нулся вниз для распра́вы,
@@ -430,13 +427,10 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 [lead] Да́р Глуби́н!
 [gang] (Глуби́н!)
 [lead]
-Кто Да́р сотвори́л
-И нёс его́ в свет,
-Тот ду́хом скрепи́л
-Свой свяще́нный заве́т!
-Засты́ла вся ночь,
-Но страх свой пред Сли́вом
-Ты смог превозмо́чь!
+Оди́н ты, геро́й,
+Меж Да́ром и тьмой.
+Ты сги́нешь во мгле́ —
+Но Да́р оста́нется на земле́!
 [lead] Да́р Глуби́н!
 [gang] (Глуби́н!)
 [lead] Да́р Глуби́н!
@@ -465,7 +459,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Пусть во́ды встаю́т
 Вы́ше не́ба и огня́ —
 Его́ не сметёт и струя́ —
-Нихуя
+НИХУЯ
 
 [gang vocals, rising chant] Да́р! Да́р! Да́р!
 [Full band stop — total silence, long dramatic pause]

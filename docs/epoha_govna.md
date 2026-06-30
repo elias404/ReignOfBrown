@@ -364,12 +364,12 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 
 ## III. «Тайна Дара Глубин»
 
-**Статус:** третий черновик текста настроен на агрессивный power-heavy metal около 205 BPM, несколько голосов Стихий и предельно короткий сокрушительный half-time удар.
+**Статус:** третий черновик текста настроен на агрессивный power-heavy metal около 205 BPM, несколько голосов Стихий поют крупными смысловыми блоками, а half-time сведён к предельно короткому сокрушительному удару.
 
 ### Промт для Suno
 
 ```text
-Russian-language aggressive power-heavy metal / metal-opera assault, ~205 BPM in A minor. Immediate full-band detonation, no intro: relentless downpicked palm-muted riffs, sharp syncopated accents, cutting twin guitars, dominant bass, nonstop double-kick and cracking snare. Several clean character voices exchange clipped phrases, led by a high male tenor with a rough metallic edge; urgent female interjections and hostile gang choir. Vocals are confrontational, furious and near-breaking, with hard consonants, rapid rising lines, wide leaps and sustained screams. Verses never relax and slam into a huge shouted call-and-response chorus. No atmospheric pauses. Midpoint: only a 6–8 second crushing half-time hit with toms and choked guitar, then immediate double-time return. Fast harmonized solo, abrupt stops, repeated final chorus at maximum speed, last glass-cutting scream. Dry punchy production, guitars and drums forward. Tragedy as rage and defiance; no melancholy or sweetness.
+Russian-language aggressive power-heavy metal / metal-opera assault, ~205 BPM in A minor. Immediate full-band detonation: relentless downpicked palm-muted riffs, syncopated accents, cutting twin guitars, dominant bass, nonstop double-kick and cracking snare. Several clean character voices, led by a high male tenor with a rough metallic edge. Each singer takes a complete multi-line block; no one-line handoffs or rapid vocalist switching. A female voice and hostile gang choir enter only for distinct blocks. Vocals are confrontational, furious and near-breaking, with hard consonants, rapid rising lines, wide leaps and sustained screams. Verses never relax; huge shouted choruses. No atmospheric pauses. Midpoint: a 6–8 second crushing half-time hit, then immediate double-time return. Fast harmonized solo, abrupt stops, final chorus at maximum speed, last glass-cutting scream. Dry punchy production, guitars and drums forward. Tragedy as rage and defiance; no melancholy or sweetness.
 ```
 
 ### Styles to avoid
@@ -383,148 +383,90 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 ```text
 [Intro — immediate full-band detonation, no buildup; downpicked palm-muted riff, nonstop double-kick, cracking snare]
 
-[Verse 1 — clipped alternating clean voices, no rests, hostile full-band answers]
+[Verse 1 — two large clean-vocal blocks, no rests, hostile full-band answers]
 [Voice of Stone — firm clean male voice]
 На ка́менном скло́не —
 У чёрных воро́т —
-
-[Voice of Sky — bright clean female voice]
 Пред би́твой Вали́тель
 Заме́длил свой ход.
 
 [Valitel — dominant high clean metal tenor]
-Он ё́ршик склони́л
+Я ё́ршик склони́л
 И взошёл на престо́л.
-
-[Choir — short forceful answer]
 И ро́кот по жи́лам
 Вселе́нной прошёл!
-
-[Voice of Fire — sharp clean male voice]
 Из пло́ти и ду́ха,
 Из жа́ра глуби́н —
-
-[Valitel — high clean metal tenor]
 Я Да́р сотвори́л!
-
-[Choir — massive answer]
 И оста́лся оди́н!
 
-[Pre-Chorus — rapid call and response, rising twin guitars]
+[Pre-Chorus — two vocal blocks, rising twin guitars]
 [Voice of Stone]
 Кому́ жить века́?
-
-[Voice of Sky]
 Кто исче́знет во тьме́?
 
 [Valitel]
 Моему́ Да́ру — и́ли же мне?
-
-[Choir — explosive unison cry]
 ОТВЕ́ТЬ!
 
-[Chorus — massive call-and-response march, simple shouted hooks]
+[Chorus — two large vocal blocks, massive shouted hooks]
 [Choir]
 Та́йна Да́ра Глуби́н!
-
-[Voice of Fire]
 Кори́чневый свет!
-
-[Voice of Stone]
 Из пло́ти и во́ли —
-
-[Choir]
 Свяще́нный заве́т!
 
-[Choir]
+[Valitel and Choir — soaring lead over hostile gang vocals]
 Та́йна Да́ра Глуби́н!
-
-[Voice of Sky]
 Где ко́нчится плоть —
-
-[Valitel]
 Там оста́нется дух!
-
-[Choir]
 И зов его́ ве́чен и жгуч!
 
-[Verse 2 — relentless downpicked riff, clipped clean voices, hostile choir punctuations]
-[Voice of Sky]
+[Verse 2 — two complete clean-vocal stanzas over a relentless downpicked riff]
+[Voice of Sky — bright clean female voice]
 Из бе́здны отве́тил
 Не го́лос, а гром.
-
-[Voice of Fire]
 И тре́щины вспы́хнули
 В не́бе круго́м.
-
-[Voice of Water — dark clean voice]
 На Да́р наступа́л
 Неотсту́пный пото́к.
 
-[Choir]
+[Voice of Water — dark clean voice]
 И Слив пробуди́лся
 У са́мых воро́т!
-
-[Voice of Stone]
 Кто Да́р сотвори́л
 И выно́сит на свет,
-
-[Choir]
 Тот жи́знью свое́ю
 Храни́т сей заве́т!
 
-[Pre-Chorus — rapid call and response, drums and twin guitars rising]
-[Voice of Sky]
+[Pre-Chorus — one continuous female lead, drums and twin guitars rising]
+[Voice of Sky — same bright clean female voice]
 Молча́ли все звёзды.
-
-[Voice of Stone]
 Молча́л небосво́д.
-
-[Voice of Water]
 Но Слив с высоты́
 Уже рва́лся вперёд!
 
-[Chorus — heavier call-and-response march, all voices and choir]
+[Chorus — two large vocal blocks, heavier arrangement]
 [Choir]
 Та́йна Да́ра Глуби́н!
-
-[Voice of Fire]
 Кори́чневый свет!
-
-[Voice of Stone]
 Из пло́ти и во́ли —
-
-[Choir]
 Свяще́нный заве́т!
 
-[Choir]
+[Valitel and Choir — soaring lead over hostile gang vocals]
 Та́йна Да́ра Глуби́н!
-
-[Voice of Sky]
 Где ко́нчится плоть —
-
-[Valitel]
 Там оста́нется дух!
-
-[Choir]
 И зов его́ ве́чен и жгуч!
 
 [Guitar Solo — fast harmonized twin-guitar leads over nonstop double-kick]
 
 [Half-Time Hit — only 6–8 seconds, crushing toms and choked distorted guitar, clipped urgent voices, immediate double-time return]
-[Voice of Stone — low clean voice]
+[Voice of Stone — same firm clean male voice, lower register]
 Он ла́донь возло́жил
 На тёплую твердь.
 
-[Voice of Sky — exposed bright clean voice]
-И дро́гнули звёзды:
-Прибли́зилась смерть.
-
 [Voice of Water — dark clean voice]
-Распа́лись грани́цы
-Веще́й и имён.
-
-[Choir — distant and gradually growing]
 И гро́хотом Сли́ва
 Был мир потрясён.
 
@@ -539,53 +481,32 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 Он бу́дет свобо́ден
 И переживёт меня́!
 
-[Full band stop — complete silence]
-[Valitel — piercing high declaration]
+[Declaration Sequence — Valitel remains the lead throughout; full-band stops divide the lines, Choir only doubles the middle declaration]
+[Valitel — three rising high declarations]
 Я ДАР СОТВОРИ́Л!
 
-[Choir — massive answer]
+[Full band stop — complete silence, then Choir joins behind Valitel]
 И ОТДА́Л ЕГО́ МИ́РУ!
 
 [Full band crash — massive chord and cymbal hit]
-[Valitel — highest sustained vocal peak]
 ОН БУ́ДЕТ ЖИ́ТЬ ПО́СЛЕ МЕНЯ́!
 
-[Final Chorus — repeated at maximum speed, all voices, hostile gang choir, twin-guitar counterlines]
-[Choir]
+[Final Chorus — one continuous Valitel lead at maximum speed; Choir doubles only the final hook]
+[Valitel — continuous high metal tenor]
 Та́йна Да́ра Глуби́н!
-
-[Voice of Fire]
-Тепе́рь нам откры́лся отве́т!
-
-[Valitel]
+Тепе́рь мне откры́лся отве́т!
 Я со́здал тебя́ не для сме́рти —
-
-[Choir]
 Ты ми́ру даро́ванный свет!
-
-[Choir]
 Та́йна Да́ра Глуби́н!
-
-[Voice of Sky]
-Ва́ши су́дьбы сплете́ны.
-
-[Valitel]
+На́ши су́дьбы сплете́ны.
 Мой путь обрыва́ется здесь —
-
-[Valitel and Choir — broad final hook]
 Но ты переживёшь меня́!
 
 [Outro — maximum-speed full-band coda, hostile layered voices, final glass-cutting scream, no fade]
-[Voice of Stone]
-Он Да́р сотвори́л…
-
-[Voice of Fire]
+[Valitel and Choir — one continuous layered block]
+Я Да́р сотвори́л…
 И отда́л его́ ми́ру…
-
-[Choir — sustained]
 Он бу́дет жить…
-
-[Valitel — final sustained high note]
 По́сле меня́!
 ```
 
@@ -635,9 +556,9 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 - Либретто: готово.
 - Текст первой песни «В начале было Оно»: утверждён.
 - Текст второй песни «Каловый Валитель идёт»: утверждён.
-- Текст третьей песни «Тайна Дара Глубин»: третий черновик перестроен под быстрые реплики Валителя, голосов Стихий и Хора.
+- Текст третьей песни «Тайна Дара Глубин»: третий черновик распределён между Валителем, голосами Стихий и Хором крупными смысловыми блоками без построчной смены солиста.
 - Текст четвёртой песни «Слив» с кодой «Эпоха Говна»: не написан.
 - Промт для первой песни «В начале было Оно»: готов.
 - Промт для второй песни «Каловый Валитель идёт»: готов.
-- Промт для третьей песни «Тайна Дара Глубин»: агрессивная версия на 205 BPM с несколькими чистыми голосами, враждебными хоровыми ответами, 6–8-секундным half-time ударом и финалом на максимальной скорости.
+- Промт для третьей песни «Тайна Дара Глубин»: агрессивная версия на 205 BPM с несколькими чистыми голосами, распределёнными по крупным смысловым блокам без построчной смены вокалиста, 6–8-секундным half-time ударом и финалом на максимальной скорости.
 - Промт для четвёртой песни «Слив»: не написан.

@@ -403,7 +403,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 [lead] Да́р Глуби́н!
 [gang] (Глуби́н!)
 [lead]
-Ты, как сам Промете́й,
+Ты, как дре́вний тита́н,
 Свой ого́нь подари́л,
 Ты презре́л небеса́
 И себя́ не щади́л!
@@ -427,7 +427,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 [lead] Да́р Глуби́н!
 [gang] (Глуби́н!)
 [lead]
-Ты, как сам Промете́й,
+Ты, как дре́вний тита́н,
 Свой ого́нь подари́л,
 Ты презре́л небеса́
 И себя́ не щади́л!

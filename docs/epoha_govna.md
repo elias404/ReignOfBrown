@@ -434,6 +434,11 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 [The highest, longest, most piercing ultra-high scream of the entire song; the absolute culmination]
 НИХУЯ-А-А-А-А-А!
 
+[Outro — broad solemn full-band coda, elegiac high tenor, no fade]
+Над во́льной землёй
+Заря́ разлила́сь,
+А жизнь твоя́ с Да́ром
+Наве́к сплела́сь.
 
 ```
 

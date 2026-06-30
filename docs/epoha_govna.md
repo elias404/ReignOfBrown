@@ -397,52 +397,19 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Свой Да́р из неё́ творя́,
 В него́ ты свой дух вложи́л!
 
-[Verse 2 — two clean male stanzas over galloping bass and a harmonized twin-guitar riff]
-[bright clean high male voice]
-Из бе́здны разда́лся
-Не го́лос, а гром.
-Над ми́ром откры́лся
-Небе́сный проло́м.
-На Да́р наступа́л
-Разъярённый прибо́й.
-
-[tense clean male voice]
-И с не́ба упа́л
-Слив тяжёлой волно́й!
+Но в моме́нт свое́й сла́вы
+Ты услы́шал из тьмы́:
+Слив гото́вил распра́ву,
+Обру́шась с вышины́,
+Грозя́ потопи́ть,
+Весь Да́р поглоти́ть!
 Кто Да́р сотвори́л
-И выно́сит на свет,
+И нёс его́ в свет,
 Тот ду́хом скрепи́л
 Свой свяще́нный заве́т!
-
-[Pre-Chorus — one continuous high male lead, drums and twin guitars rising]
-[bright clean high male voice]
-Умо́лкли все звёзды,
-Молча́ла вся ночь.
+Молча́ла вся ночь,
 Но страх свой пред Сли́вом
 Ты смог превозмо́чь!
-
-[Chorus — broad anthemic shout-along hook, darker and heavier arrangement]
-[big male gang vocals]
-Да́р Глуби́н!
-Кори́чневый свет!
-Из ду́ха и во́ли —
-Свяще́нный заве́т!
-
-[soaring ultra-high male lead over big male gang vocals]
-Да́р Глуби́н!
-Плоть обрати́тся во прах —
-Да́р не исче́знет в веках!
-Дух его́ бу́дет ве́чно жить!
-
-[Chorus — repeat, fuller and higher]
-Да́р Глуби́н!
-Кори́чневый свет!
-Из ду́ха и во́ли —
-Свяще́нный заве́т!
-Да́р Глуби́н!
-Плоть обрати́тся во прах —
-Да́р не исче́знет в веках!
-Дух его́ бу́дет ве́чно жить!
 
 [Guitar Solo]
 

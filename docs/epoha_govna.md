@@ -433,7 +433,7 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 
 [Voice of Water — dark clean voice]
 И с не́ба на Да́р
-Ру́хнул исполи́н!
+Обру́шился Слив!
 Кто Да́р сотвори́л
 И выно́сит на свет,
 Тот жи́знью свое́ю

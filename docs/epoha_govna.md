@@ -406,6 +406,9 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 И Да́р загуби́ть!
 
 [Chorus — broad anthemic hook; soaring high lead over big male gang vocals]
+[gang vocals]
+Да́р Глуби́н! Да́р Глуби́н!
+[lead]
 Кто Да́р сотвори́л
 И нёс его́ в свет,
 Тот ду́хом скрепи́л
@@ -413,6 +416,8 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Молча́ла вся ночь,
 Но страх свой пред Сли́вом
 Ты смог превозмо́чь!
+[gang vocals]
+Да́р Глуби́н! Да́р Глуби́н!
 
 [Guitar Solo]
 
@@ -436,8 +441,8 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Пусть во́ды встаю́т
 Вы́ше не́ба и огня́ —
 Его́ не сметёт и струя́ —
+Нихуя
 
-[Full band stop — total silence, long dramatic pause]
 [the highest, longest, most piercing ultra-high scream of the entire song; the absolute culmination]
 НИХУЯ-А-А-А-А-А!
 
@@ -448,6 +453,9 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Заря́ разлила́сь,
 А жизнь твоя́ с Да́ром
 Наве́ки сплела́сь.
+
+[gang vocals — distant, solemn, slowly fading chant]
+Да́р Глуби́н... Да́р Глуби́н...
 
 ```
 

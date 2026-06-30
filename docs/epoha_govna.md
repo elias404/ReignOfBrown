@@ -426,8 +426,8 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 [Voice of Sky — bright clean female voice]
 Из бе́здны отве́тил
 Не го́лос, а гром.
-И тре́щины вспы́хнули
-Багро́вым огнём.
+Над ми́ром откры́лся
+Небе́сный проло́м.
 На Да́р наступа́л
 Неотсту́пный пото́к.
 

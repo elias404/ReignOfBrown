@@ -363,18 +363,18 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 
 ## III. «Тайна Дара Глубин»
 
-**Статус:** второй черновик текста и промта приведён в соответствие с новой драматургией.
+**Статус:** второй черновик текста приведён в соответствие с новой драматургией; промт перестроен под ранний британский NWOBHM с тихим вступлением и нарастающим тяжёлым финалом.
 
 ### Промт для Suno
 
 ```text
-Russian-language early-1990s traditional heavy metal mystical epic, ~100 BPM in firm 4/4. Brief clean-guitar opening, then a weighty mid-tempo riff, melodic bass, natural roomy drums and restrained twin-guitar harmonies. High rough-edged clean tenor, solemn and prophetic; verses use active rising and falling melodies, measured pauses and wide upward leaps, never spoken or crooned. First chorus arrives early as a dark monumental hook. The creation of the Gift sounds triumphant, then distant rushing water and heavier later choruses introduce the price of victory. Lyrical guitar solo leads into a sparse revelation bridge, then a full-band stop and two explosive high vocal declarations. Final chorus is broad, tragic and resolute. Warm early-1990s analog production, strong midrange and human timing; no synths, modern power-metal gloss, extreme vocals, comedy phrasing or chanson.
+Dark dramatic early-1980s British NWOBHM epic with Russian lyrics, ~105 BPM. Begin with a brief sparse clean electric-guitar arpeggio and tense melodic bass under a high clear male metal tenor. Firm straight vocal tone, sharp consonants, minimal vibrato, rising melodic phrases; never crooned or spoken. Distorted twin guitars and natural drums enter early with a bleak heavy riff. Verses alternate restrained tension with forceful full-band surges. Ominous, broad, tragic chorus with sustained upper-register peaks, never sentimental. Build steadily toward pounding chords, a faster galloping final section, piercing high vocal cries, dramatic stops and a melodic twin-guitar solo. Raw dry 1982 analog production, forward guitars and audible bass. Serious apocalyptic atmosphere; no keyboards or orchestration.
 ```
 
 ### Styles to avoid
 
 ```text
-chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental ballad, soft rock, pop rock, spoken word, monotone recitative, crooning, melismatic vocals, excessive vibrato, droning vocals, waltz, 6/8 ballad, symphonic metal, modern power metal, speed metal, thrash metal, metalcore, deathcore, growls, guttural vocals, low baritone lead, neoclassical metal, shred guitar, sweep picking, rapid arpeggios, synths, keyboards, orchestral pads, polished modern production, comedy vocals
+Russian chanson, chanson, shanson, bard song, folk ballad, acoustic singer-songwriter, Russian romance, estrada, sentimental vocals, crooning, low baritone lead, excessive vibrato, spoken word, recitative, waltz, 6/8 ballad, piano ballad, soft rock, pop rock, folk metal, symphonic metal, modern power metal, neoclassical metal, synths, orchestral pads, polished modern production, growls, comedy vocals
 ```
 
 ### Черновик текста
@@ -392,7 +392,7 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 
 [Pre-Chorus — drums enter and tension rises; ascending twin guitars, vocal line climbing]
 Он встал над творе́ньем в немо́й тишине́:
-«Кому́ суждено́ пережи́ть — Да́ру иль мне?»
+«Кому́ жить века́ — моему́ Да́ру иль мне?»
 
 [Lead Vocal — piercing sustained high-metal cry]
 ОТВЕ́ТЬ!
@@ -410,14 +410,14 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 [Verse 2 — heavier mid-tempo riff, narrative high tenor, approaching water audible beneath the band]
 Из бе́здны отве́тил не го́лос, а гром,
 И тре́щины вспы́хнули в не́бе круго́м.
-За Да́ром встава́л неотсту́пный пото́к:
-И Слив пробуди́лся у са́мых ног.
-Кто путь отвори́л из Затво́ра во свет,
+На Да́р наступа́л неотсту́пный пото́к:
+И Слив пробуди́лся у са́мых воро́т.
+Кто Да́р сотвори́л и выно́сит на свет,
 Тот жи́знью свое́й сохрани́т сей заве́т.
 
 [Pre-Chorus — rising tension, heavier drums, ascending twin guitars]
 Молча́ли все звёзды, молча́л небосво́д,
-Но Слив из глуби́н уже рва́лся вперёд.
+Но Слив с высоты́ уже рва́лся вперёд.
 
 [Chorus — heavier than before, dark declarative refrain, soaring high vocal variations]
 Та́йна Да́ра Глуби́н!
@@ -435,17 +435,18 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 Он ла́донь возло́жил на тёплую твердь —
 И дро́гнули звёзды, прибли́зилась смерть.
 Распа́лись грани́цы вещей и имён,
-И гу́лом гряду́щего мир потрясён.
+И гро́хотом Сли́ва был мир потрясён.
 
 [Revelation — accelerating build, vocal intensity rising line by line]
 Я Да́р сотвори́л не для сла́вы свое́й,
 Не да́м ему сги́нуть во мра́ке море́й.
 Пусть во́ды подни́мутся вы́ше огня́ —
-Он вы́йдет на во́лю и переживёт меня́!
+Он бу́дет свобо́ден — и переживёт меня́!
 
 [Full band stop — complete silence]
 [Lead Vocal — explosive sustained ultra-high declaration]
-Я ДАР СОТВОРИ́Л — И ОТДА́Л ЕГО́ МИ́РУ!
+Я ДАР СОТВОРИ́Л!
+И ОТДА́Л ЕГО́ МИ́РУ!
 
 [Full band crash — massive chord and cymbal hit]
 [Lead Vocal — even higher sustained climactic declaration]
@@ -457,7 +458,8 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 Я со́здал тебя́ не для сме́рти —
 Ты ми́ру даро́ванный свет!
 Та́йна Да́ра Глуби́н!
-Пуска́й на́ши су́дьбы еди́ны,
+Пуска́й на́ши су́дьбы сплете́ны,
+Мой путь обрыва́ется здесь —
 Но ты переживёшь меня́!
 
 [Outro — clean guitar returns; distant gang vocals under a final solemn high-tenor line]
@@ -518,5 +520,5 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 - Текст четвёртой песни «Слив» с кодой «Эпоха Говна»: не написан.
 - Промт для первой песни «В начале было Оно»: готов.
 - Промт для второй песни «Каловый Валитель идёт»: готов.
-- Промт для третьей песни «Тайна Дара Глубин»: второй черновик приведён в соответствие с новой драматургией.
+- Промт для третьей песни «Тайна Дара Глубин»: перестроен под ранний британский NWOBHM с динамикой «тихое вступление → тяжёлый ускоренный финал».
 - Промт для четвёртой песни «Слив»: не написан.

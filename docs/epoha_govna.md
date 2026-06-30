@@ -381,12 +381,13 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 ### Черновик текста
 
 ```text
-
+[Verse 1 — clean high male voice, narrative]
 Над тёмной пучи́ной,
 Где Сли́ва оплот,
 Пред би́твой Вали́тель
 Заме́длил свой ход.
 
+[soaring extremely high powerful metal tenor, dominant above all]
 Ты ё́ршик вознёс к облака́м,
 На трон мирозда́нья взошёл,
 Дал во́лю огню́ и века́м,
@@ -396,12 +397,15 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Свой Да́р из неё́ творя́,
 В него́ ты свой дух вложи́л!
 
+[Verse 2 — driving gallop, tense]
 Но в моме́нт свое́й сла́вы
 Ты услы́шал из тьмы́:
 Слив ри́нулся вниз для распра́вы,
 С разве́рстой небе́сной плиты́,
 Грозя́ поглоти́ть
 И Да́р загуби́ть!
+
+[Chorus — broad anthemic hook; soaring high lead over big male gang vocals]
 Кто Да́р сотвори́л
 И нёс его́ в свет,
 Тот ду́хом скрепи́л
@@ -412,6 +416,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 
 [Guitar Solo]
 
+[Bridge — slow, heavy, elegiac; tense clipped male voice, then a gradual swell]
 Ты вста́л ме́жду Да́ром
 И я́ростью вод.
 
@@ -423,6 +428,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Как и́скра, что ка́нула
 В ве́чную тьму.
 
+[Verse 3 — forceful return to the main gallop, soaring into the extreme upper register]
 Ты Да́р сотвори́л
 Не для сла́вы свое́й.
 В него́ дух заключи́л
@@ -430,15 +436,18 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Пусть во́ды встаю́т
 Вы́ше не́ба и огня́ —
 Его́ не сметёт и струя́ —
-НИХУЯ
-[The highest, longest, most piercing ultra-high scream of the entire song; the absolute culmination]
+
+[Full band stop — total silence, long dramatic pause]
+[the highest, longest, most piercing ultra-high scream of the entire song; the absolute culmination]
 НИХУЯ-А-А-А-А-А!
 
+[Instrumental break — the storm subsides into a slow, solemn passage]
+
 [Outro — broad solemn full-band coda, elegiac high tenor, no fade]
-Над во́льной землёй
+Над во́льной землёю
 Заря́ разлила́сь,
 А жизнь твоя́ с Да́ром
-Наве́к сплела́сь.
+Наве́ки сплела́сь.
 
 ```
 

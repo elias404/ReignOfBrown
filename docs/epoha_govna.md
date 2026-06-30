@@ -391,14 +391,14 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 Заме́длил свой ход.
 
 [Valitel — dominant high clean metal tenor]
-Я ё́ршик склони́л
+Я ё́ршик вознёс
 И взошёл на престо́л.
 И ро́кот по жи́лам
 Вселе́нной прошёл!
 Моя́ плоть — руда́,
 Мой дух — жар глуби́н —
 Я Да́р сотвори́л!
-И оста́лся оди́н!
+Пусть свобо́ду храни́т!
 
 [Pre-Chorus — two vocal blocks, escalating palm-muted riff and snare accents]
 [Voice of Stone]
@@ -418,16 +418,16 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 
 [Valitel and Choir — soaring lead over hostile gang vocals]
 Та́йна Да́ра Глуби́н!
-Где ко́нчится плоть —
-Там оста́нется дух!
-И зов его́ ве́чен и жгуч!
+Когда́ ко́нчится плоть —
+Оста́нется Да́р!
+И дух в нём бу́дет ве́чно жить!
 
 [Verse 2 — two complete clean-vocal stanzas over relentless chromatic riffing]
 [Voice of Sky — bright clean female voice]
 Из бе́здны отве́тил
 Не го́лос, а гром.
 И тре́щины вспы́хнули
-В не́бе круго́м.
+Багро́вым огнём.
 На Да́р наступа́л
 Неотсту́пный пото́к.
 
@@ -455,9 +455,9 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 
 [Valitel and Choir — soaring lead over hostile gang vocals]
 Та́йна Да́ра Глуби́н!
-Где ко́нчится плоть —
-Там оста́нется дух!
-И зов его́ ве́чен и жгуч!
+Когда́ ко́нчится плоть —
+Оста́нется Да́р!
+И дух в нём бу́дет ве́чно жить!
 
 [Guitar Solo — short frantic lead with dissonant bends over the full thrash rhythm]
 

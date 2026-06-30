@@ -375,7 +375,7 @@ Russian-language classic 1980s-style heavy metal anthem, ~200 BPM in E minor, ex
 ### Styles to avoid
 
 ```text
-Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, russian music, ballad
+Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, russian music, ballad, synth, keyboard
 ```
 
 ### Черновик текста
@@ -398,7 +398,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 В тебе́ ожива́ла руда́,
 Раскаля́лась она́ дочерна́.
 Ты Да́р сотвори́л!
-И него́ ты дух свой вложи́л!
+В него́ свой дух вложи́л!
 
 [Verse 2 — two clean male stanzas over galloping bass and a harmonized twin-guitar riff]
 [bright clean high male voice]
@@ -434,7 +434,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 [soaring ultra-high male lead over big male gang vocals]
 Да́р Глуби́н!
 Плоть обрати́тся во прах —
-Оста́нется Да́р!
+Да́р не исче́знет в веках!
 Дух его́ бу́дет ве́чно жить!
 
 [Chorus — repeat, fuller and higher]
@@ -444,7 +444,7 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 Свяще́нный заве́т!
 Да́р Глуби́н!
 Плоть обрати́тся во прах —
-Оста́нется Да́р!
+Да́р не исче́знет в веках!
 Дух его́ бу́дет ве́чно жить!
 
 [Guitar Solo]
@@ -488,10 +488,10 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 [Final Chorus — one continuous lead at maximum intensity over the full gallop; male gang vocals double only the final hook]
 [continuous ultra-high piercing metal tenor, Beast in Black style]
 Да́р Глуби́н!
-Ты вы́ковал Да́р для свобо́ды —
-О ми́ру даро́ванный свет!
+Ты вы́ковал Да́р, как заве́т, —
+Ты ми́ру даро́ванный свет!
 Да́р Глуби́н!
-Твой путь обрыва́ется здесь —
+Ты ги́бнешь под чёрными волна́ми —
 НО ДАР БУ́ДЕТ С НА́МИ!
 
 [Outro — broad full-band coda, layered male gang vocals, no fade]

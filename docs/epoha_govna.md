@@ -369,7 +369,7 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 ### Промт для Suno
 
 ```text
-New Wave of British Heavy Metal (NWOBHM), ~220 BPM, extremely high male lead vocal. Lead is an extremely high, powerful, piercing tenor with huge range, soaring sustained upper notes, fierce head register and glass-cutting high screams. Supporting male voices and a big male gang choir on the hooks. Heroic, defiant, tragic grandeur; no synths, no modern polish.
+New Wave of British Heavy Metal (NWOBHM), ~200 BPM, extremely high male lead vocal. Lead is an extremely high, powerful, piercing tenor with huge range, soaring sustained upper notes, fierce head register and glass-cutting high screams. Supporting male voices and a big male gang choir on the hooks. Heroic, defiant, tragic grandeur; no synths, no modern polish.
 ```
 
 ### Styles to avoid

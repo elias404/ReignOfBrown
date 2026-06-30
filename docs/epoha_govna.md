@@ -364,33 +364,33 @@ metalcore, deathcore, growls, guttural vocals, low baritone vocals, symphonic me
 
 ## III. «Тайна Дара Глубин»
 
-**Статус:** третий черновик текста настроен на агрессивный heavy/thrash metal около 205 BPM; все сольные голоса и Хор — мужские, Валитель поёт экстремально высоким тенором, а half-time сведён к предельно короткому сокрушительному удару.
+**Статус:** текст переведён на классический heavy metal с предельно высоким мужским вокалом в духе Beast in Black (Yannis Papadopoulos); промт и разметка переписаны с нуля. Все сольные голоса и Хор — мужские, Валитель поёт экстремально высоким пронзительным тенором.
 
 ### Промт для Suno
 
 ```text
-Russian-language aggressive heavy / thrash metal with metal-opera vocals, ~205 BPM in A minor. Immediate detonation: dry downpicked chromatic riffs, pedal-tone chugs, syncopated stops, biting guitars, bass locked to the riff, relentless thrash beat, cracking snare and double-kick bursts. Male vocals and male gang choir only; no female voice. Several clean male character voices in distinct multi-line blocks, no one-line handoffs. Valitel is an extremely high, piercing male tenor, consistently above the other voices, using forceful mixed/head register, sharp upper notes and sustained glass-cutting screams; never baritone, low, crooning or soft falsetto. Vocals stay furious and near-breaking. Verses are tense and riff-driven; choruses huge, shouted and dark. No atmospheric pauses. Midpoint: 6–8 second crushing half-time hit, then immediate thrash return. Short frantic solo, abrupt stops, final chorus at maximum speed. Dry raw production. Tragedy as rage and defiance.
+Russian-language classic 1980s-style heavy metal anthem, ~172 BPM in E minor, lead vocal in the spirit of Beast in Black's Yannis Papadopoulos. Immediate full-band entrance: muscular minor-key riffs, galloping bass, open power chords, crunchy harmonized twin guitars, punchy natural drums, occasional double-kick, no thrash beat. Male voices only. Lead is an extremely high, powerful, piercing tenor with huge range, soaring sustained upper notes, fierce head register and glass-cutting high screams, never soft falsetto. Supporting male voices and a big male gang choir on the hooks. Tense riff-led verses; climbing pre-choruses; broad, dark, anthemic shout-along choruses. Short melodic harmonized twin-guitar solo with bends and wide vibrato, no shredding. One brief slow heavy bridge, then a forceful return to the gallop. Warm punchy analog production, forward guitars and bass, natural drums, little reverb. Heroic, defiant, tragic grandeur; no synths, no modern polish.
 ```
 
 ### Styles to avoid
 
 ```text
-Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning, female vocals, female lead, soprano, alto, low male lead, baritone lead, sentimental ballad, melancholy, mournful delivery, soft dynamics, slow tempo, midtempo, atmospheric intro, clean-guitar break, long breakdown, waltz, dance beat, pop rock, bright melodic power metal, triumphant fantasy metal, doom metal, metalcore, growls, guttural vocals, extreme metal, comedy vocals, synth-dominant symphonic metal, glossy pop production
+Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning, female vocals, female lead, soprano, alto, low male lead, baritone lead, sentimental ballad, melancholy, mournful delivery, soft rock, pop rock, fantasy metal, thrash metal, speed metal, doom metal, metalcore, djent, down-tuned chugs, blast beats, nonstop double-kick, growls, guttural vocals, extreme metal, long breakdown, synthwave, synth-dominant production, symphonic metal, glossy modern production, comedy vocals
 ```
 
 ### Черновик текста
 
 ```text
-[Intro — immediate full-band detonation, no buildup; dry downpicked chromatic riff, relentless thrash beat, cracking snare]
+[Intro — immediate full-band entrance; muscular minor-key riff, galloping bass, crunchy harmonized twin guitars, punchy natural drums]
 
-[Verse 1 — two large clean-vocal blocks over tight chromatic riffing, no rests]
+[Verse 1 — two clean male-vocal blocks over a driving classic heavy-metal gallop]
 [Voice of Stone — firm clean mid-high male voice]
 На ка́менном скло́не —
 У чёрных воро́т —
 Пред би́твой Вали́тель
 Заме́длил свой ход.
 
-[Valitel — dominant extremely high clean metal tenor]
+[Valitel — soaring extremely high powerful metal tenor, Beast in Black style, dominant above all]
 Я ё́ршик вознёс
 Под мерца́нием звёзд.
 На престо́л я взошёл —
@@ -400,29 +400,29 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 Я Да́р сотвори́л!
 В него́ свой дух вложи́л!
 
-[Pre-Chorus — two vocal blocks, escalating palm-muted riff and snare accents]
+[Pre-Chorus — climbing line, ascending harmonized twin guitars and rising drum accents]
 [Voice of Stone]
 Кому́ жить века́?
 Кто исче́знет во тьме́?
 
-[Valitel]
+[Valitel — rising into the extreme upper register]
 Моему́ Да́ру — и́ли же мне?
 ОТВЕ́ТЬ!
 
-[Chorus — two large vocal blocks, massive dark shouted hooks]
-[Choir — hostile male gang vocals]
+[Chorus — broad anthemic shout-along hook, dark and heavy]
+[Choir — big male gang vocals]
 Та́йна Да́ра Глуби́н!
 Кори́чневый свет!
 Из ве́ры и во́ли —
 Свяще́нный заве́т!
 
-[Valitel and Choir — ultra-high male lead over hostile male gang vocals]
+[Valitel and Choir — soaring ultra-high male lead over big male gang vocals]
 Та́йна Да́ра Глуби́н!
 Плоть обрати́тся во прах —
 Оста́нется Да́р!
 Дух его́ бу́дет ве́чно жить!
 
-[Verse 2 — two complete clean-vocal stanzas over relentless chromatic riffing]
+[Verse 2 — two clean male stanzas over galloping bass and a harmonized twin-guitar riff]
 [Voice of Sky — bright clean high male voice]
 Из бе́здны отве́тил
 Не го́лос, а гром.
@@ -439,29 +439,29 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 Тот ду́хом скрепи́л
 Свой свяще́нный заве́т!
 
-[Pre-Chorus — one continuous high male lead, thrash beat and riff escalating]
+[Pre-Chorus — one continuous high male lead, drums and twin guitars rising]
 [Voice of Sky — same bright clean high male voice]
 Молча́ли все звёзды.
 Молча́л небосво́д.
 Но страх перед Сли́вом
 Он смог превозмо́чь!
 
-[Chorus — two large vocal blocks, darker and heavier arrangement]
-[Choir — hostile male gang vocals]
+[Chorus — broad anthemic shout-along hook, darker and heavier arrangement]
+[Choir — big male gang vocals]
 Та́йна Да́ра Глуби́н!
 Кори́чневый свет!
 Из ве́ры и во́ли —
 Свяще́нный заве́т!
 
-[Valitel and Choir — ultra-high male lead over hostile male gang vocals]
+[Valitel and Choir — soaring ultra-high male lead over big male gang vocals]
 Та́йна Да́ра Глуби́н!
 Плоть обрати́тся во прах —
 Оста́нется Да́р!
 Дух его́ бу́дет ве́чно жить!
 
-[Guitar Solo — short frantic lead with dissonant bends over the full thrash rhythm]
+[Guitar Solo — short melodic harmonized twin-guitar lead, expressive bends, wide vibrato, no shredding]
 
-[Half-Time Hit — only 6–8 seconds, crushing toms and choked distorted guitar, clipped urgent voices, immediate double-time return]
+[Slow Heavy Bridge — only 8–12 seconds, weighty toms, sustained power chords, clipped urgent male voices, then a forceful return to the main gallop]
 [Voice of Stone — same firm clean male voice, tense mid register]
 Он вста́л между Да́ром
 И я́ростью вод.
@@ -470,8 +470,8 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 И гро́хот над ми́ром
 Предве́стил исхо́д.
 
-[Revelation — immediate thrash-beat return, Valitel rising into the extreme upper register]
-[Valitel]
+[Revelation — forceful return to the main gallop, Valitel soaring into the extreme upper register]
+[Valitel — extremely high powerful tenor]
 Я Да́р сотвори́л
 Не для сла́вы свое́й.
 В него́ дух заключи́л
@@ -482,7 +482,7 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 Он переживёт меня́!
 
 [Declaration Sequence — Valitel remains the lead throughout; full-band stops divide the lines, male Choir only doubles the middle declaration]
-[Valitel — three rising ultra-high declarations]
+[Valitel — three rising ultra-high declarations, glass-cutting belt]
 Я ДАР СОТВОРИ́Л!
 
 [Full band stop — complete silence, then male Choir joins behind Valitel]
@@ -491,8 +491,8 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 [Full band crash — massive chord and cymbal hit]
 ОН БУ́ДЕТ ЖИ́ТЬ ПО́СЛЕ МЕНЯ́!
 
-[Final Chorus — one continuous Valitel lead at maximum speed; male Choir doubles only the final hook]
-[Valitel — continuous ultra-high piercing metal tenor]
+[Final Chorus — one continuous Valitel lead at maximum intensity over the full gallop; male Choir doubles only the final hook]
+[Valitel — continuous ultra-high piercing metal tenor, Beast in Black style]
 Та́йна Да́ра Глуби́н!
 Тепе́рь мне откры́лся отве́т!
 Я вы́ковал Да́р для свобо́ды —
@@ -502,8 +502,8 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 Мой путь обрыва́ется здесь —
 Но ты переживёшь меня́!
 
-[Outro — maximum-speed full-band coda, hostile layered voices, final glass-cutting scream, no fade]
-[Valitel and male Choir — one continuous layered block, Valitel stays an octave above]
+[Outro — broad full-band classic heavy-metal coda, layered male voices, final glass-cutting ultra-high scream, no fade]
+[Valitel and male Choir — one continuous layered block, Valitel soaring an octave above]
 Я Да́р сотвори́л…
 И ми́ру вручи́л…
 Он бу́дет жить…
@@ -532,7 +532,7 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 - Использовать высокий, надрывный, театральный мужской вокал.
 - В третьей песне все сольные партии исполняются мужскими голосами; Валитель должен звучать заметно выше остальных, вплоть до экстремального верхнего регистра.
 - Вокал должен быть максимально эмоциональным и пафосным, доходя до абсурда: драматические вскрики, долгие верхние ноты, героический надрыв и пророческая декламация.
-- При всей гиперболе вокальная и музыкальная подача должна оставаться в рамках традиционного heavy metal и мелодичного power-heavy metal; третья песня смещается к классическому thrash metal, но не к современному экстремальному металлу или пародийному мюзиклу.
+- При всей гиперболе вокальная и музыкальная подача должна оставаться в рамках традиционного heavy metal; третья песня опирается на классический heavy metal начала 1980-х и не уходит в thrash, современный экстремальный металл или пародийный мюзикл.
 - Главные припевы должны быть простыми, монументальными и пригодными для хорового скандирования.
 - Гитарные гармонии и галопирующий бас связывают номера в единое произведение.
 - В финале вернуть музыкальные мотивы предыдущих песен. После гибели Валителя его вокал больше не звучит: тема героя продолжается инструментально и в хоре, а место ожидаемого сольного вступления остаётся пустым.
@@ -557,9 +557,9 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 - Либретто: готово.
 - Текст первой песни «В начале было Оно»: утверждён.
 - Текст второй песни «Каловый Валитель идёт»: утверждён.
-- Текст третьей песни «Тайна Дара Глубин»: третий черновик распределён крупными вокальными блоками, выровнен до 5–9 слогов в строке и усилен парными и перекрёстными рифмами.
+- Текст третьей песни «Тайна Дара Глубин»: строки сохранены, стиль переведён на классический heavy metal с предельно высоким мужским вокалом в духе Beast in Black; разметка секций переписана с нуля.
 - Текст четвёртой песни «Слив» с кодой «Эпоха Говна»: не написан.
 - Промт для первой песни «В начале было Оно»: готов.
 - Промт для второй песни «Каловый Валитель идёт»: готов.
-- Промт для третьей песни «Тайна Дара Глубин»: агрессивная heavy/thrash-версия на 205 BPM, только мужские сольные голоса и мужской Хор, экстремально высокий тенор Валителя, крупные смысловые вокальные блоки, 6–8-секундный half-time удар и финал на максимальной скорости.
+- Промт для третьей песни «Тайна Дара Глубин»: классический heavy metal около 172 BPM, вокал в духе Beast in Black (Yannis Papadopoulos) — экстремально высокий мощный мужской тенор; только мужские сольные голоса и мужской Хор, анфемные припевы, короткий медленный мост и финал на максимальном накале.
 - Промт для четвёртой песни «Слив»: не написан.

@@ -73,21 +73,21 @@
 > Каловый Валитель идёт!  
 > Значит, настала Эпоха Говна!
 
-## III. «Тайна Великого Бремени»
+## III. «Тайна Дара Глубин»
 
 Перед решающей битвой Валитель погружается в раздумья:
 
 > Несёт ли человек говно —  
 > или говно несёт человека?  
 >  
-> Где заканчивается Бремя
+> Где заканчивается Дар
 > и начинается вечность?  
 >  
 > Если говно упало в бездну  
 > и никто его не унюхал —  
 > свершилось ли испражнение?
 
-Валитель возлагает ладонь на Великое Бремя и постигает непостижимое:
+Валитель возлагает ладонь на Дар Глубин и постигает непостижимое:
 
 > Я не владею Говном.  
 > Я принадлежу ему.
@@ -171,7 +171,7 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, Russian folk ball
 - Голос обязан совпадать с песней «Каловый Валитель идёт»: высокий, яркий, надрывный мужской тенор. При расхождении тембра перегенерировать или дотянуть через продолжение того же сида.
 - Финальный припев остаётся в том же темпе, но становится плотнее и выше по вокалу. Выбирать дубль с ясным контрастом интро и основного риффа, активной мелодией куплетов и разборчивым припевом.
 
-## Промт для песни «Тайна Великого Бремени»
+## Промт для песни «Тайна Дара Глубин»
 
 ```text
 Russian-language early-1990s traditional heavy metal mystical epic, ~100 BPM in firm 4/4. Brief clean-guitar opening, then a weighty mid-tempo riff, melodic bass, natural roomy drums and restrained twin-guitar harmonies. High rough-edged clean tenor, solemn and questioning; verses use active rising and falling melodies, measured pauses and wide upward leaps, never spoken or crooned. First chorus arrives early as a dark monumental hook. Each philosophical question increases tension; later choruses grow heavier. Lyrical guitar solo leads into a sparse revelation bridge, then a full-band stop and two explosive high vocal declarations. Final chorus is broad, transcendent and climactic. Warm early-1990s analog production, strong midrange and human timing; no synths, modern power-metal gloss, extreme vocals, comedy phrasing or chanson.
@@ -395,7 +395,7 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 
 # Черновик текста третьей песни
 
-## «Тайна Великого Бремени»
+## «Тайна Дара Глубин»
 
 ```text
 [Intro — brief clean-guitar invocation, low bass drone, no drums; quickly building]
@@ -403,9 +403,9 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 [Verse 1 — restrained but active high-tenor melody; clean guitar growing into a heavy mid-tempo riff]
 На ка́менном скло́не у чёрных воро́т
 Пред би́твой Вали́тель заме́длил свой ход.
-Безмо́лвно лежа́ло Вели́кое Бре́мя,
-И пе́ред ним са́мо склони́лося вре́мя.
-Над ним не сия́ли ни со́лнце, ни гром,
+Безмо́лвно лежа́л перед ним Да́р Глуби́н,
+И сам ход времён был наве́к с ним еди́н.
+Над Да́ром не сия́ли ни со́лнце, ни гром,
 Но ве́чность дыша́ла в молча́нии том.
 
 [Pre-Chorus — drums enter and tension rises; ascending twin guitars, vocal line climbing]
@@ -416,18 +416,18 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 ОТВЕ́ТЬ!
 
 [Chorus — early dark monumental payoff, massive downbeats, broad melodic hook, sustained high peaks]
-Та́йна Вели́кого Бре́мени!
+Та́йна Да́ра Глуби́н!
 Безмо́лвный кори́чневый свет!
 Кто но́сит кого́ в э́том ми́ре?
 Где скры́т сокрове́нный отве́т?
-Та́йна Вели́кого Бре́мени!
+Та́йна Да́ра Глуби́н!
 Где ко́нчится плоть, где начнётся дух?
 За гра́нью истле́ния — ве́чность,
 И дух его ве́чен и жгуч!
 
 [Verse 2 — heavier mid-tempo riff, narrative high tenor, active questioning melody]
-Где Бре́мя конча́ется — ве́чность встаёт?
-Где ве́чность конча́ется — Бре́мя живёт?
+Где ко́нчится Да́р — там ли ве́чность встаёт?
+Где ве́чность конча́ется — Да́р ли живёт?
 И е́сли сей плод низверга́ется в тьму́,
 Не я́влен ни но́су, ни се́рдцу, ни уму́,
 Сверши́лось ли та́инство в бе́здне глухо́й?
@@ -435,14 +435,14 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 
 [Pre-Chorus — rising tension, heavier drums, ascending twin guitars]
 Молча́ли все звёзды, молча́л небосво́д,
-Но Бре́мя дыша́ло и зва́ло вперёд.
+Но Да́р из глуби́н его зва́л вперёд.
 
 [Chorus — heavier than before, dark declarative refrain, soaring high vocal variations]
-Та́йна Вели́кого Бре́мени!
+Та́йна Да́ра Глуби́н!
 Безмо́лвный кори́чневый свет!
 Кто но́сит кого́ в э́том ми́ре?
 Где скры́т сокрове́нный отве́т?
-Та́йна Вели́кого Бре́мени!
+Та́йна Да́ра Глуби́н!
 Где ко́нчится плоть, где начнётся дух?
 За гра́нью истле́ния — ве́чность,
 И дух его ве́чен и жгуч!
@@ -459,7 +459,7 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 Я ду́мал: сей дар — моя си́ла и меч,
 Я ду́мал: лишь я его мо́г убере́чь.
 Но и́стина вы́шла из дре́внего сна:
-Не я́ несу́ Бре́мя — Бре́мя несёт меня́!
+Не я́ владе́ю Да́ром — Да́р владе́ет мной!
 
 [Full band stop — complete silence]
 [Lead Vocal — explosive sustained ultra-high declaration]
@@ -470,18 +470,16 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 Я ПРИНАДЛЕЖУ́ ЕМУ́!
 
 [Final Chorus — heaviest arrangement, twin-guitar counterlines, highest soaring vocal variations]
-Та́йна Вели́кого Бре́мени!
+Та́йна Да́ра Глуби́н!
 Тепе́рь мне откры́лся отве́т:
-Не я́ тебя нёс через ве́чность —
+Не я́ твой хозя́ин отны́не —
 Ты мно́ю сверша́ешь свой заве́т!
-Та́йна Вели́кого Бре́мени!
-Я ча́сть твоих дре́вних глуби́н!
-Ты но́сишь геро́я сквозь ве́чность —
-И я́ с э́той ве́чностью еди́н!
+Та́йна Да́ра Глуби́н!
+С тобо́ю наве́ки еди́н!
 
 [Outro — clean guitar returns; distant gang vocals under a final solemn high-tenor line]
-Не я́ несу́ Бре́мя…
-Оно́ несёт меня́…
+Не я́ владе́ю Да́ром…
+Да́р владе́ет мной…
 
 [Lead Vocal — sustained final high note]
 Я ПРИНАДЛЕЖУ́ ЕМУ́!
@@ -505,9 +503,9 @@ chanson, Russian chanson, shanson, Russian estrada, bard song, sentimental balla
 - Либретто: готово.
 - Текст первой песни «В начале было Оно»: утверждён.
 - Текст второй песни «Каловый Валитель идёт»: утверждён.
-- Текст третьей песни «Тайна Великого Бремени»: первый черновик готов.
+- Текст третьей песни «Тайна Дара Глубин»: первый черновик готов.
 - Остальные тексты песен (IV, V): не написаны.
 - Промт для первой песни «В начале было Оно»: готов.
 - Промт для второй песни «Каловый Валитель идёт»: готов.
-- Промт для третьей песни «Тайна Великого Бремени»: первый черновик готов.
+- Промт для третьей песни «Тайна Дара Глубин»: первый черновик готов.
 - Промты для остальных песен (IV, V): не написаны.

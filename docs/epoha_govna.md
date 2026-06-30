@@ -393,8 +393,8 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 [Valitel — dominant high clean metal tenor]
 Я ё́ршик вознёс
 И взошёл на престо́л.
-И ро́кот по жи́лам
-Вселе́нной прошёл!
+И не́дра подо мно́й
+Раскали́лись добела́.
 Моя́ плоть — руда́,
 Мой дух — жар глуби́н —
 Я Да́р сотвори́л!
@@ -413,14 +413,14 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 [Choir]
 Та́йна Да́ра Глуби́н!
 Кори́чневый свет!
-Из пло́ти и во́ли —
+Из ве́ры и во́ли —
 Свяще́нный заве́т!
 
 [Valitel and Choir — soaring lead over hostile gang vocals]
 Та́йна Да́ра Глуби́н!
 Когда́ ко́нчится плоть —
 Оста́нется Да́р!
-И дух в нём бу́дет ве́чно жить!
+Дух его́ бу́дет ве́чно жить!
 
 [Verse 2 — two complete clean-vocal stanzas over relentless chromatic riffing]
 [Voice of Sky — bright clean female voice]
@@ -432,8 +432,8 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 Неотсту́пный пото́к.
 
 [Voice of Water — dark clean voice]
-И Слив пробуди́лся
-У са́мых воро́т!
+И с не́ба на Да́р
+Ру́хнул исполи́н!
 Кто Да́р сотвори́л
 И выно́сит на свет,
 Тот жи́знью свое́ю
@@ -443,28 +443,28 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 [Voice of Sky — same bright clean female voice]
 Молча́ли все звёзды.
 Молча́л небосво́д.
-Но Слив с высоты́
-Уже рва́лся вперёд!
+Но страх перед Сли́вом
+Он смог превозмо́чь!
 
 [Chorus — two large vocal blocks, darker and heavier arrangement]
 [Choir]
 Та́йна Да́ра Глуби́н!
 Кори́чневый свет!
-Из пло́ти и во́ли —
+Из ве́ры и во́ли —
 Свяще́нный заве́т!
 
 [Valitel and Choir — soaring lead over hostile gang vocals]
 Та́йна Да́ра Глуби́н!
 Когда́ ко́нчится плоть —
 Оста́нется Да́р!
-И дух в нём бу́дет ве́чно жить!
+Дух его́ бу́дет ве́чно жить!
 
 [Guitar Solo — short frantic lead with dissonant bends over the full thrash rhythm]
 
 [Half-Time Hit — only 6–8 seconds, crushing toms and choked distorted guitar, clipped urgent voices, immediate double-time return]
 [Voice of Stone — same firm clean male voice, lower register]
-Он ла́донь возло́жил
-На тёплую твердь.
+Он вста́л между Да́ром
+И во́дною бе́здной.
 
 [Voice of Water — dark clean voice]
 И гро́хотом Сли́ва
@@ -495,7 +495,7 @@ Russian chanson, chanson, shanson, bard song, Russian romance, estrada, crooning
 [Valitel — continuous high metal tenor]
 Та́йна Да́ра Глуби́н!
 Тепе́рь мне откры́лся отве́т!
-Я со́здал тебя́ не для сме́рти —
+Я вы́ковал тебя́ для свобо́ды —
 Ты ми́ру даро́ванный свет!
 Та́йна Да́ра Глуби́н!
 На́ши су́дьбы сплете́ны.

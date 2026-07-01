@@ -413,13 +413,13 @@ Russian chanson, chanson, shanson, Russian romance, russian pop, russian rock, r
 [gang] (Глуби́н!)
 
 [Verse 2 — driving gallop, tense]
-Но в миг свое́й сла́вы
-Ты услы́шал из тьмы́:
+Но в миг твое́й сла́вы,
+В сия́нье побе́д,
 [descending dive-bomb guitar, air-raid wail]
-Слив гря́нул для лю́той распра́вы
-С разве́рстой небе́сной плиты́,
-Грозя́ поглоти́ть на́ш ого́нь
-И в бе́здну низве́ргнуть мечты́!
+Слив ри́нулся вниз,
+Гася́ вся́кий свет!
+Грозя́ поглоти́ть
+И Да́р, и заве́т!
 
 [Chorus — broad anthemic hook; soaring high lead over big male gang vocals]
 [lead] Да́р Глуби́н!
